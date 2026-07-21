@@ -532,7 +532,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; color: gray;'>
-        <p>Developed by <b>Haris Ch</b></p>
+        <p>Developed by <b> Muhammad Haris</b></p>
         <p>AI & Machine Learning Internship Project</p>
     </div>
     """,
