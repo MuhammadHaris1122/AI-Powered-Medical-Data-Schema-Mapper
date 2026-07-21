@@ -1,0 +1,2001 @@
+Patient_ID,Age,Gender,Glucose,BloodPressure,BMI,Insulin,Cholesterol,Smoker,Diagnosis
+1,61,Male,76,107,24.6,129,155,Yes,No Diabetes
+2,64,Male,178,62,18.7,126,179,Yes,Diabetes
+3,56,Male,209,86,23.3,157,121,Yes,Diabetes
+4,65,Female,157,77,21.7,187,146,Yes,Diabetes
+5,45,Male,161,82,32.5,37,237,Yes,Diabetes
+6,80,Female,90,95,25.0,200,267,Yes,No Diabetes
+7,66,Male,81,102,23.5,163,140,Yes,No Diabetes
+8,76,Male,167,77,28.9,201,161,No,Diabetes
+9,43,Male,138,104,40.5,51,275,Yes,Diabetes
+10,55,Male,111,89,27.1,300,176,No,No Diabetes
+11,74,Male,128,62,37.3,220,188,Yes,Diabetes
+12,34,Female,124,101,30.0,249,156,No,No Diabetes
+13,29,Male,213,94,24.3,234,269,No,Diabetes
+14,44,Male,105,92,29.8,39,148,Yes,No Diabetes
+15,61,Male,178,98,19.5,210,272,No,Diabetes
+16,54,Female,211,60,34.3,73,294,No,Diabetes
+17,70,Female,98,78,28.4,247,120,No,No Diabetes
+18,53,Male,199,66,38.9,167,283,Yes,Diabetes
+19,30,Female,111,94,40.9,286,120,No,Diabetes
+20,52,Male,98,83,39.1,172,181,Yes,Diabetes
+21,36,Male,91,106,29.7,50,256,Yes,No Diabetes
+22,29,Female,210,70,24.4,231,174,Yes,Diabetes
+23,66,Female,172,102,33.6,239,252,No,Diabetes
+24,28,Male,127,64,26.1,298,178,Yes,No Diabetes
+25,21,Male,85,74,19.6,31,204,Yes,No Diabetes
+26,53,Male,141,102,29.6,291,153,No,Diabetes
+27,36,Female,174,72,20.3,235,210,No,Diabetes
+28,47,Female,83,103,33.7,65,135,No,Diabetes
+29,67,Female,97,75,22.6,289,234,Yes,No Diabetes
+30,48,Male,141,89,24.0,53,233,Yes,Diabetes
+31,24,Male,93,108,38.4,100,224,No,Diabetes
+32,51,Male,172,63,22.0,16,219,No,Diabetes
+33,80,Female,143,87,34.7,299,289,No,Diabetes
+34,30,Male,145,73,41.2,292,135,No,Diabetes
+35,24,Male,219,90,30.1,286,160,Yes,Diabetes
+36,53,Male,117,64,32.3,135,223,Yes,Diabetes
+37,77,Male,218,98,19.0,56,227,No,Diabetes
+38,80,Female,122,102,35.2,137,187,No,Diabetes
+39,29,Female,187,80,40.3,52,122,No,Diabetes
+40,60,Male,88,94,23.1,150,153,No,No Diabetes
+41,77,Male,132,83,24.8,239,259,No,No Diabetes
+42,60,Male,211,79,40.4,68,154,No,Diabetes
+43,28,Male,211,69,24.5,122,207,Yes,Diabetes
+44,64,Female,199,91,24.0,41,143,No,Diabetes
+45,74,Female,81,60,26.0,81,283,No,No Diabetes
+46,31,Female,211,105,28.3,19,148,Yes,Diabetes
+47,77,Male,209,62,38.0,297,157,No,Diabetes
+48,29,Male,148,83,39.6,35,211,Yes,Diabetes
+49,64,Male,96,82,36.7,223,278,Yes,Diabetes
+50,80,Male,111,71,39.2,27,165,No,Diabetes
+51,71,Female,133,77,21.8,70,217,Yes,No Diabetes
+52,75,Female,126,72,37.6,250,209,No,Diabetes
+53,73,Male,127,61,33.8,219,204,No,Diabetes
+54,76,Male,141,82,33.4,219,293,No,Diabetes
+55,22,Male,136,71,31.9,150,129,Yes,Diabetes
+56,59,Female,158,106,36.9,238,275,Yes,Diabetes
+57,45,Male,135,62,35.0,15,253,Yes,Diabetes
+58,44,Female,87,102,40.1,175,289,Yes,Diabetes
+59,67,Female,199,79,34.0,182,223,No,Diabetes
+60,56,Male,119,86,34.0,209,293,Yes,Diabetes
+61,60,Female,173,95,38.0,170,193,Yes,Diabetes
+62,48,Female,189,88,28.6,124,250,No,Diabetes
+63,71,Male,91,78,30.4,186,143,Yes,Diabetes
+64,64,Female,127,72,21.5,38,182,No,No Diabetes
+65,60,Male,186,86,39.3,114,298,No,Diabetes
+66,52,Female,132,69,33.7,17,147,No,Diabetes
+67,35,Male,202,89,19.2,142,151,No,Diabetes
+68,29,Female,205,95,32.3,241,276,No,Diabetes
+69,74,Female,110,107,38.7,245,186,Yes,Diabetes
+70,74,Female,203,91,33.0,155,232,Yes,Diabetes
+71,66,Female,130,77,26.1,291,140,Yes,No Diabetes
+72,30,Male,168,104,21.7,124,136,No,Diabetes
+73,47,Female,208,89,28.0,120,227,No,Diabetes
+74,78,Male,217,84,29.4,195,196,No,Diabetes
+75,75,Female,207,107,35.6,127,244,Yes,Diabetes
+76,38,Female,194,61,27.3,222,162,No,Diabetes
+77,79,Male,206,61,39.8,28,141,No,Diabetes
+78,29,Female,116,63,24.2,182,174,No,No Diabetes
+79,41,Female,167,77,36.0,230,184,Yes,Diabetes
+80,51,Male,208,63,42.0,194,177,Yes,Diabetes
+81,70,Male,77,75,22.8,25,279,Yes,No Diabetes
+82,36,Male,191,102,20.7,126,239,No,Diabetes
+83,70,Female,112,98,32.6,73,161,No,Diabetes
+84,27,Male,149,96,34.3,207,221,Yes,Diabetes
+85,25,Male,96,104,36.5,76,264,Yes,Diabetes
+86,43,Female,164,64,30.1,189,123,No,Diabetes
+87,73,Female,97,87,41.1,250,159,No,Diabetes
+88,32,Female,207,109,29.6,238,271,No,Diabetes
+89,41,Male,92,77,39.2,139,238,No,Diabetes
+90,42,Male,196,80,22.4,123,210,No,Diabetes
+91,42,Female,140,95,18.2,112,141,Yes,No Diabetes
+92,67,Female,195,95,36.2,258,285,No,Diabetes
+93,49,Male,93,78,23.3,139,198,No,No Diabetes
+94,51,Female,178,107,31.2,195,299,No,Diabetes
+95,38,Female,134,74,20.9,113,200,Yes,No Diabetes
+96,68,Male,119,73,35.7,156,270,No,Diabetes
+97,27,Male,145,74,26.7,169,123,Yes,Diabetes
+98,38,Male,83,95,25.0,79,283,No,No Diabetes
+99,27,Male,216,78,29.3,240,207,Yes,Diabetes
+100,24,Female,192,67,37.7,220,245,Yes,Diabetes
+101,57,Male,108,69,37.5,170,141,Yes,Diabetes
+102,28,Female,127,109,30.5,245,233,No,Diabetes
+103,76,Female,148,96,32.9,65,173,Yes,Diabetes
+104,37,Male,110,75,22.2,53,160,Yes,No Diabetes
+105,47,Female,190,78,18.8,162,300,No,Diabetes
+106,65,Female,88,103,23.6,150,280,Yes,No Diabetes
+107,48,Male,209,74,33.5,151,156,Yes,Diabetes
+108,24,Male,148,98,36.0,162,232,Yes,Diabetes
+109,50,Female,173,77,30.0,267,232,Yes,Diabetes
+110,59,Male,180,107,25.7,143,126,Yes,Diabetes
+111,35,Male,138,96,19.0,104,240,No,No Diabetes
+112,79,Female,116,97,28.5,266,143,No,No Diabetes
+113,43,Female,155,80,34.1,97,204,No,Diabetes
+114,65,Female,143,102,40.7,296,129,No,Diabetes
+115,26,Female,134,80,20.8,221,251,Yes,No Diabetes
+116,63,Female,175,63,22.5,200,279,No,Diabetes
+117,61,Female,83,73,24.4,82,193,No,No Diabetes
+118,77,Female,101,61,41.4,137,160,No,Diabetes
+119,56,Male,211,86,20.2,73,238,Yes,Diabetes
+120,62,Male,197,105,25.0,154,226,No,Diabetes
+121,51,Male,186,95,21.5,112,273,Yes,Diabetes
+122,76,Male,140,109,37.0,227,207,No,Diabetes
+123,73,Male,142,106,25.2,265,158,No,Diabetes
+124,55,Female,158,81,31.2,293,216,No,Diabetes
+125,80,Female,118,104,23.7,211,179,No,No Diabetes
+126,23,Female,191,105,39.9,210,218,Yes,Diabetes
+127,52,Male,102,92,41.2,184,145,No,Diabetes
+128,27,Female,73,106,21.5,94,139,No,No Diabetes
+129,71,Female,156,99,34.6,56,204,No,Diabetes
+130,41,Female,208,62,32.8,135,281,No,Diabetes
+131,35,Male,181,66,36.2,66,233,Yes,Diabetes
+132,65,Female,77,62,25.8,43,195,No,No Diabetes
+133,44,Female,107,75,30.7,107,163,Yes,Diabetes
+134,26,Female,131,91,39.9,88,179,No,Diabetes
+135,61,Female,187,76,34.0,253,193,Yes,Diabetes
+136,25,Female,158,97,25.2,232,296,No,Diabetes
+137,50,Female,120,84,38.5,69,180,No,Diabetes
+138,57,Female,217,78,41.8,166,125,No,Diabetes
+139,38,Male,214,103,36.7,40,275,No,Diabetes
+140,74,Female,128,98,37.2,127,282,Yes,Diabetes
+141,60,Female,105,100,20.3,35,199,No,No Diabetes
+142,23,Female,103,65,39.8,182,226,Yes,Diabetes
+143,33,Male,208,83,30.7,154,162,No,Diabetes
+144,79,Female,145,107,38.9,73,239,Yes,Diabetes
+145,30,Male,171,95,26.8,217,123,No,Diabetes
+146,55,Male,186,83,34.1,149,269,No,Diabetes
+147,73,Female,97,103,23.6,27,278,No,No Diabetes
+148,79,Male,86,100,37.8,169,286,No,Diabetes
+149,28,Male,81,62,25.3,267,149,Yes,No Diabetes
+150,36,Male,169,89,26.9,291,227,Yes,Diabetes
+151,77,Female,95,91,32.8,158,128,No,Diabetes
+152,34,Female,183,75,38.5,65,295,No,Diabetes
+153,55,Female,85,85,24.6,77,236,Yes,No Diabetes
+154,63,Male,75,63,36.9,139,152,Yes,Diabetes
+155,25,Male,220,73,37.5,134,204,Yes,Diabetes
+156,71,Male,140,69,41.7,291,184,Yes,Diabetes
+157,28,Male,103,60,26.6,136,270,No,No Diabetes
+158,22,Male,137,63,21.0,230,254,Yes,No Diabetes
+159,68,Male,191,88,36.7,277,271,Yes,Diabetes
+160,49,Male,81,106,36.8,281,197,No,Diabetes
+161,62,Male,85,90,38.3,233,295,Yes,Diabetes
+162,52,Female,88,65,25.7,90,136,Yes,No Diabetes
+163,38,Female,167,98,30.7,247,249,No,Diabetes
+164,27,Male,211,106,38.8,235,235,Yes,Diabetes
+165,47,Female,186,85,28.0,63,200,No,Diabetes
+166,41,Female,165,69,34.5,257,137,Yes,Diabetes
+167,74,Male,93,87,20.3,205,153,Yes,No Diabetes
+168,58,Female,101,86,26.5,231,133,No,No Diabetes
+169,59,Female,160,66,31.9,123,159,No,Diabetes
+170,35,Male,159,95,26.8,157,266,Yes,Diabetes
+171,72,Female,213,109,37.6,300,126,No,Diabetes
+172,22,Male,139,104,36.3,188,209,Yes,Diabetes
+173,32,Male,214,102,27.6,87,282,Yes,Diabetes
+174,26,Male,166,86,28.9,95,214,No,Diabetes
+175,67,Female,215,98,20.0,41,159,Yes,Diabetes
+176,69,Male,90,77,28.6,232,244,No,No Diabetes
+177,47,Female,125,108,30.3,191,230,Yes,Diabetes
+178,39,Female,204,102,25.4,127,221,Yes,Diabetes
+179,21,Male,147,73,36.4,145,194,No,Diabetes
+180,28,Male,197,107,28.3,81,217,Yes,Diabetes
+181,53,Female,88,85,38.7,36,231,Yes,Diabetes
+182,50,Male,150,96,28.3,222,283,No,Diabetes
+183,39,Male,173,61,41.2,102,278,No,Diabetes
+184,74,Female,92,87,38.3,139,231,No,Diabetes
+185,54,Male,171,79,35.9,128,205,Yes,Diabetes
+186,25,Male,205,92,22.7,193,209,Yes,Diabetes
+187,36,Male,107,76,22.7,93,287,Yes,No Diabetes
+188,32,Female,188,108,31.5,244,294,No,Diabetes
+189,76,Female,108,88,19.6,241,281,No,No Diabetes
+190,71,Female,84,82,30.2,173,238,No,Diabetes
+191,23,Male,164,78,19.8,61,277,No,Diabetes
+192,50,Male,185,96,33.6,179,274,No,Diabetes
+193,53,Male,85,88,20.5,190,141,Yes,No Diabetes
+194,23,Male,182,88,30.6,96,213,No,Diabetes
+195,79,Female,169,86,36.6,41,281,No,Diabetes
+196,25,Female,94,95,34.3,160,184,Yes,Diabetes
+197,42,Male,219,102,21.4,194,199,No,Diabetes
+198,29,Male,149,95,27.0,183,152,Yes,Diabetes
+199,62,Female,200,83,18.4,173,166,Yes,Diabetes
+200,42,Female,119,74,42.0,94,139,No,Diabetes
+201,75,Male,199,109,31.0,284,129,No,Diabetes
+202,77,Male,166,69,21.9,99,232,Yes,Diabetes
+203,47,Female,130,88,32.7,244,179,Yes,Diabetes
+204,40,Female,119,83,34.3,240,238,No,Diabetes
+205,70,Female,198,93,28.0,97,171,Yes,Diabetes
+206,76,Female,83,101,29.5,205,261,Yes,No Diabetes
+207,66,Male,142,65,36.3,154,235,Yes,Diabetes
+208,74,Female,93,74,37.6,193,126,No,Diabetes
+209,24,Female,198,83,23.7,56,215,Yes,Diabetes
+210,22,Female,95,105,33.6,89,155,Yes,Diabetes
+211,39,Female,105,108,34.9,244,277,Yes,Diabetes
+212,78,Male,74,76,23.2,91,260,No,No Diabetes
+213,28,Female,130,79,20.9,137,227,No,No Diabetes
+214,25,Male,197,98,30.9,278,267,Yes,Diabetes
+215,66,Male,144,87,18.0,195,181,No,Diabetes
+216,32,Male,204,83,19.6,284,259,Yes,Diabetes
+217,45,Female,81,100,27.3,206,184,Yes,No Diabetes
+218,43,Male,158,75,35.6,68,268,No,Diabetes
+219,29,Male,160,94,26.1,104,295,No,Diabetes
+220,65,Female,116,68,19.5,249,129,No,No Diabetes
+221,33,Male,121,62,25.6,173,251,No,No Diabetes
+222,73,Female,134,62,36.1,112,193,No,Diabetes
+223,76,Male,154,77,21.0,203,231,No,Diabetes
+224,68,Female,168,81,41.4,269,297,No,Diabetes
+225,44,Female,91,106,28.2,235,274,Yes,No Diabetes
+226,55,Female,152,66,19.9,166,198,No,Diabetes
+227,59,Female,112,104,28.7,243,130,No,No Diabetes
+228,60,Female,140,100,41.5,44,139,No,Diabetes
+229,44,Male,77,69,38.4,239,128,Yes,Diabetes
+230,25,Male,163,83,27.2,31,274,Yes,Diabetes
+231,64,Female,164,83,28.7,54,266,Yes,Diabetes
+232,54,Female,171,80,33.6,142,149,Yes,Diabetes
+233,68,Male,197,93,27.3,75,187,No,Diabetes
+234,66,Female,124,99,24.9,266,171,Yes,No Diabetes
+235,29,Male,185,71,39.6,242,142,No,Diabetes
+236,63,Female,86,95,31.0,168,160,Yes,Diabetes
+237,71,Female,200,74,20.9,117,155,Yes,Diabetes
+238,71,Female,76,83,31.3,203,239,Yes,Diabetes
+239,60,Male,86,79,27.6,260,254,No,No Diabetes
+240,70,Female,217,64,21.0,177,284,Yes,Diabetes
+241,49,Female,202,82,21.1,297,283,Yes,Diabetes
+242,70,Male,180,92,39.9,43,151,Yes,Diabetes
+243,40,Male,111,80,40.4,130,208,No,Diabetes
+244,75,Male,134,72,33.2,297,190,Yes,Diabetes
+245,61,Female,206,65,30.1,101,271,Yes,Diabetes
+246,31,Female,214,62,37.8,29,140,Yes,Diabetes
+247,62,Female,123,109,31.7,30,247,No,Diabetes
+248,62,Female,193,75,37.3,222,196,No,Diabetes
+249,25,Male,110,88,28.0,252,172,No,No Diabetes
+250,59,Male,150,105,25.7,191,222,Yes,Diabetes
+251,69,Female,201,95,20.5,138,239,Yes,Diabetes
+252,38,Female,133,69,20.3,163,218,No,No Diabetes
+253,36,Male,153,96,35.3,112,160,No,Diabetes
+254,53,Female,197,79,29.9,61,220,No,Diabetes
+255,36,Male,219,82,19.2,159,246,No,Diabetes
+256,39,Male,97,87,21.2,150,213,No,No Diabetes
+257,44,Male,172,63,31.7,114,212,No,Diabetes
+258,25,Female,199,88,36.3,158,279,Yes,Diabetes
+259,29,Male,170,83,37.1,188,262,No,Diabetes
+260,69,Male,120,98,30.2,271,130,Yes,Diabetes
+261,23,Male,155,90,30.5,91,275,Yes,Diabetes
+262,41,Female,111,85,41.8,168,271,No,Diabetes
+263,53,Female,214,79,29.4,23,214,No,Diabetes
+264,64,Male,176,97,25.4,28,272,No,Diabetes
+265,37,Male,83,97,29.5,283,281,No,No Diabetes
+266,30,Male,78,96,40.8,71,168,Yes,Diabetes
+267,49,Female,177,69,27.9,119,225,No,Diabetes
+268,76,Male,105,93,23.0,181,289,No,No Diabetes
+269,54,Female,150,71,29.0,287,207,No,Diabetes
+270,64,Female,193,72,41.0,157,262,No,Diabetes
+271,35,Female,143,105,23.0,265,201,No,Diabetes
+272,43,Female,143,67,31.8,293,217,No,Diabetes
+273,73,Female,107,78,19.0,55,208,No,No Diabetes
+274,62,Female,192,73,22.8,290,189,No,Diabetes
+275,29,Male,220,75,23.8,286,177,Yes,Diabetes
+276,24,Male,175,81,35.2,66,294,Yes,Diabetes
+277,21,Male,174,101,40.4,258,242,Yes,Diabetes
+278,69,Female,152,78,33.5,60,286,Yes,Diabetes
+279,55,Male,114,86,39.2,105,129,No,Diabetes
+280,71,Female,117,107,41.1,163,129,Yes,Diabetes
+281,40,Male,155,78,28.9,293,254,No,Diabetes
+282,77,Male,199,89,24.5,72,204,Yes,Diabetes
+283,67,Female,135,105,22.5,187,195,Yes,No Diabetes
+284,32,Female,179,92,25.9,220,291,Yes,Diabetes
+285,32,Male,192,80,40.5,18,186,No,Diabetes
+286,36,Female,138,81,25.2,20,186,No,No Diabetes
+287,65,Male,85,102,20.8,172,160,No,No Diabetes
+288,64,Female,100,100,40.0,166,214,Yes,Diabetes
+289,35,Male,192,69,28.9,206,226,No,Diabetes
+290,69,Male,133,103,36.1,56,254,No,Diabetes
+291,54,Female,89,96,20.7,295,249,Yes,No Diabetes
+292,57,Male,112,80,38.5,241,149,Yes,Diabetes
+293,66,Female,93,92,28.7,43,236,Yes,No Diabetes
+294,53,Female,186,96,19.4,251,292,No,Diabetes
+295,67,Male,171,76,37.6,126,268,Yes,Diabetes
+296,23,Female,158,104,19.5,45,137,No,Diabetes
+297,23,Female,174,71,36.5,230,215,No,Diabetes
+298,49,Female,166,65,34.4,291,154,No,Diabetes
+299,28,Male,207,85,30.7,129,120,Yes,Diabetes
+300,40,Female,209,87,30.8,132,183,No,Diabetes
+301,43,Male,140,72,40.5,72,128,No,Diabetes
+302,60,Male,131,73,19.6,32,234,Yes,No Diabetes
+303,36,Male,172,88,23.6,126,134,Yes,Diabetes
+304,53,Female,129,106,31.8,179,180,No,Diabetes
+305,77,Male,203,74,27.9,155,135,Yes,Diabetes
+306,61,Female,212,91,19.1,191,284,No,Diabetes
+307,71,Female,176,86,21.6,207,167,No,Diabetes
+308,36,Male,146,105,21.5,252,134,No,Diabetes
+309,47,Male,169,75,24.1,184,285,Yes,Diabetes
+310,80,Female,164,65,30.9,112,133,No,Diabetes
+311,45,Male,88,72,37.3,126,242,Yes,Diabetes
+312,76,Female,147,60,23.1,112,150,No,Diabetes
+313,79,Male,122,85,40.0,297,202,No,Diabetes
+314,45,Female,206,101,26.6,148,212,No,Diabetes
+315,50,Male,190,108,38.2,119,214,No,Diabetes
+316,47,Male,214,74,35.8,23,186,No,Diabetes
+317,39,Male,120,81,23.5,140,247,No,No Diabetes
+318,37,Female,195,89,22.0,195,163,Yes,Diabetes
+319,67,Female,117,94,41.8,45,254,Yes,Diabetes
+320,74,Male,82,108,18.2,85,281,Yes,No Diabetes
+321,25,Male,72,73,30.1,206,135,No,Diabetes
+322,63,Female,74,60,30.8,225,123,Yes,Diabetes
+323,54,Female,207,78,18.4,235,165,Yes,Diabetes
+324,79,Male,204,69,23.8,284,184,No,Diabetes
+325,38,Female,90,83,41.0,250,264,Yes,Diabetes
+326,65,Male,146,103,37.9,56,287,Yes,Diabetes
+327,26,Female,167,84,31.3,43,283,Yes,Diabetes
+328,65,Male,91,91,38.3,184,264,Yes,Diabetes
+329,78,Male,128,73,39.6,258,189,Yes,Diabetes
+330,80,Male,141,94,31.5,31,165,No,Diabetes
+331,22,Male,220,69,36.1,218,139,No,Diabetes
+332,31,Male,215,84,34.2,291,204,No,Diabetes
+333,69,Male,90,92,35.9,192,133,Yes,Diabetes
+334,48,Male,89,81,32.5,218,203,Yes,Diabetes
+335,61,Female,185,91,23.5,298,216,No,Diabetes
+336,32,Female,91,109,32.8,141,138,Yes,Diabetes
+337,38,Male,167,105,36.8,93,219,No,Diabetes
+338,44,Male,93,60,40.6,242,212,No,Diabetes
+339,27,Male,92,71,28.3,300,262,No,No Diabetes
+340,27,Male,92,82,31.3,181,218,Yes,Diabetes
+341,39,Female,169,109,20.0,139,266,Yes,Diabetes
+342,64,Female,113,68,24.5,152,246,Yes,No Diabetes
+343,25,Male,181,77,28.1,262,139,No,Diabetes
+344,37,Male,196,98,32.8,249,147,Yes,Diabetes
+345,40,Male,171,81,38.2,209,204,No,Diabetes
+346,42,Female,104,79,25.7,117,242,No,No Diabetes
+347,32,Female,151,78,35.6,266,267,Yes,Diabetes
+348,41,Female,141,110,27.4,73,264,Yes,Diabetes
+349,58,Male,210,61,40.9,251,173,No,Diabetes
+350,72,Female,87,110,37.1,270,155,No,Diabetes
+351,36,Female,109,105,28.2,208,138,No,No Diabetes
+352,59,Female,219,85,30.8,229,259,Yes,Diabetes
+353,71,Female,207,98,33.3,58,147,Yes,Diabetes
+354,63,Female,112,101,32.7,219,204,No,Diabetes
+355,27,Male,95,76,23.3,280,262,Yes,No Diabetes
+356,49,Female,170,89,36.5,271,158,No,Diabetes
+357,22,Female,96,78,28.0,58,149,Yes,No Diabetes
+358,43,Female,157,89,36.8,281,243,No,Diabetes
+359,51,Male,182,106,34.7,178,137,No,Diabetes
+360,23,Male,75,81,33.6,99,182,Yes,Diabetes
+361,56,Male,154,95,28.2,251,179,No,Diabetes
+362,61,Male,117,100,33.8,217,127,Yes,Diabetes
+363,49,Female,169,60,34.9,120,191,Yes,Diabetes
+364,57,Male,207,71,26.8,115,237,Yes,Diabetes
+365,37,Female,205,100,25.5,213,276,No,Diabetes
+366,58,Male,159,82,38.3,103,292,No,Diabetes
+367,79,Male,104,80,20.8,171,149,Yes,No Diabetes
+368,44,Male,200,84,28.0,85,267,No,Diabetes
+369,48,Male,194,100,30.9,103,262,Yes,Diabetes
+370,52,Female,105,71,25.5,245,278,Yes,No Diabetes
+371,76,Female,72,91,21.3,211,263,No,No Diabetes
+372,47,Female,176,105,38.2,265,162,Yes,Diabetes
+373,57,Male,126,78,18.8,130,257,No,No Diabetes
+374,31,Female,214,107,36.5,268,260,Yes,Diabetes
+375,57,Male,138,109,31.0,202,258,Yes,Diabetes
+376,69,Female,209,73,41.8,67,287,Yes,Diabetes
+377,40,Male,185,76,26.4,59,232,Yes,Diabetes
+378,70,Male,123,107,32.1,194,276,No,Diabetes
+379,31,Male,122,73,37.3,194,256,No,Diabetes
+380,59,Male,152,105,25.0,151,251,Yes,Diabetes
+381,29,Female,85,77,38.8,79,299,Yes,Diabetes
+382,36,Male,152,75,36.3,216,245,Yes,Diabetes
+383,57,Female,176,84,28.8,62,223,No,Diabetes
+384,65,Female,186,91,25.9,16,143,No,Diabetes
+385,61,Female,86,110,30.8,126,229,Yes,Diabetes
+386,52,Female,152,78,26.1,81,264,No,Diabetes
+387,71,Female,82,62,20.4,250,124,Yes,No Diabetes
+388,80,Male,182,89,18.0,234,171,Yes,Diabetes
+389,77,Female,110,77,20.2,199,184,Yes,No Diabetes
+390,44,Male,83,85,33.0,134,229,Yes,Diabetes
+391,66,Male,70,73,29.4,82,271,Yes,No Diabetes
+392,54,Female,72,60,34.7,76,228,Yes,Diabetes
+393,51,Male,128,84,20.1,67,146,No,No Diabetes
+394,44,Female,105,84,36.6,83,284,Yes,Diabetes
+395,25,Male,112,88,26.4,124,280,Yes,No Diabetes
+396,79,Female,183,73,20.1,66,155,Yes,Diabetes
+397,58,Female,159,87,25.5,86,183,No,Diabetes
+398,62,Male,133,95,32.4,160,296,Yes,Diabetes
+399,75,Female,122,93,32.6,111,220,No,Diabetes
+400,62,Male,131,91,27.3,138,247,Yes,No Diabetes
+401,54,Male,162,80,21.2,230,213,Yes,Diabetes
+402,69,Female,88,61,32.1,22,187,Yes,Diabetes
+403,23,Male,171,92,24.9,271,226,No,Diabetes
+404,65,Female,91,100,30.9,93,191,Yes,Diabetes
+405,40,Male,200,73,41.4,94,257,No,Diabetes
+406,46,Male,149,104,28.5,137,134,Yes,Diabetes
+407,26,Female,99,89,32.7,43,199,Yes,Diabetes
+408,28,Male,105,104,18.3,269,208,No,No Diabetes
+409,31,Female,102,107,36.7,152,150,Yes,Diabetes
+410,42,Female,139,93,19.5,54,247,No,No Diabetes
+411,53,Female,84,91,38.6,100,214,Yes,Diabetes
+412,37,Male,216,103,35.3,131,250,Yes,Diabetes
+413,23,Male,132,62,29.3,211,158,Yes,No Diabetes
+414,80,Male,211,105,35.8,229,177,No,Diabetes
+415,36,Female,151,77,37.8,205,150,Yes,Diabetes
+416,32,Male,202,62,40.9,50,239,No,Diabetes
+417,70,Female,153,65,31.3,19,214,Yes,Diabetes
+418,39,Female,132,89,26.8,267,170,Yes,No Diabetes
+419,30,Male,174,61,23.6,192,282,Yes,Diabetes
+420,42,Male,166,107,35.5,68,172,Yes,Diabetes
+421,47,Female,85,69,35.1,62,131,Yes,Diabetes
+422,78,Female,165,89,41.4,58,268,Yes,Diabetes
+423,53,Male,170,64,32.2,46,231,Yes,Diabetes
+424,36,Female,136,80,40.2,216,299,No,Diabetes
+425,41,Female,139,74,19.8,118,154,Yes,No Diabetes
+426,30,Male,112,88,29.2,223,150,No,No Diabetes
+427,70,Male,185,79,29.1,76,143,Yes,Diabetes
+428,72,Female,80,73,38.1,182,157,Yes,Diabetes
+429,66,Male,161,85,30.3,168,186,Yes,Diabetes
+430,22,Female,185,95,36.0,142,144,No,Diabetes
+431,27,Male,101,60,19.5,128,153,Yes,No Diabetes
+432,73,Female,165,103,33.1,58,269,No,Diabetes
+433,79,Male,75,64,22.7,242,152,Yes,No Diabetes
+434,78,Female,101,62,40.6,40,163,No,Diabetes
+435,73,Female,197,61,27.2,233,164,No,Diabetes
+436,34,Male,140,77,28.7,91,128,Yes,No Diabetes
+437,62,Female,197,86,39.2,260,135,Yes,Diabetes
+438,38,Female,105,86,22.8,284,183,Yes,No Diabetes
+439,45,Female,192,94,36.8,191,264,No,Diabetes
+440,45,Female,116,61,25.7,127,127,No,No Diabetes
+441,24,Female,205,82,36.4,134,160,Yes,Diabetes
+442,36,Male,138,94,37.6,43,176,No,Diabetes
+443,43,Male,115,75,32.2,198,271,Yes,Diabetes
+444,66,Female,215,96,21.4,111,246,No,Diabetes
+445,32,Female,79,65,19.3,127,125,No,No Diabetes
+446,21,Female,121,68,26.2,105,202,Yes,No Diabetes
+447,22,Male,220,105,40.0,71,254,No,Diabetes
+448,25,Female,171,97,20.4,169,202,Yes,Diabetes
+449,31,Female,194,101,25.6,197,177,Yes,Diabetes
+450,45,Female,145,68,22.3,15,299,No,Diabetes
+451,75,Male,116,98,25.6,128,283,Yes,No Diabetes
+452,80,Female,106,81,35.9,136,208,No,Diabetes
+453,31,Male,155,88,18.3,122,183,Yes,Diabetes
+454,43,Female,97,106,18.0,212,232,No,No Diabetes
+455,31,Female,196,84,26.4,207,145,No,Diabetes
+456,71,Male,111,88,19.8,32,195,Yes,No Diabetes
+457,41,Female,96,64,26.2,207,161,Yes,No Diabetes
+458,56,Male,156,98,41.6,262,300,Yes,Diabetes
+459,48,Male,181,70,19.3,184,172,Yes,Diabetes
+460,47,Female,142,79,23.7,40,220,No,Diabetes
+461,30,Male,162,60,28.3,165,289,No,Diabetes
+462,33,Male,76,73,22.1,164,140,No,No Diabetes
+463,75,Male,148,110,27.5,265,289,No,Diabetes
+464,26,Female,117,83,39.3,204,167,No,Diabetes
+465,23,Female,182,89,24.3,152,264,Yes,Diabetes
+466,30,Male,91,102,26.3,292,225,Yes,No Diabetes
+467,56,Male,169,93,28.0,289,295,No,Diabetes
+468,57,Male,191,79,19.9,32,248,Yes,Diabetes
+469,28,Female,114,70,41.3,113,152,Yes,Diabetes
+470,48,Male,181,72,41.9,90,272,No,Diabetes
+471,41,Male,92,84,31.4,297,203,No,Diabetes
+472,54,Female,73,110,34.8,282,227,Yes,Diabetes
+473,47,Male,107,96,32.1,66,147,Yes,Diabetes
+474,71,Female,207,82,39.1,150,218,No,Diabetes
+475,57,Female,79,71,24.6,88,278,No,No Diabetes
+476,23,Female,154,104,23.7,258,188,No,Diabetes
+477,22,Female,147,79,24.7,266,298,Yes,Diabetes
+478,76,Male,104,79,41.4,241,202,No,Diabetes
+479,67,Female,92,72,28.6,223,244,No,No Diabetes
+480,73,Male,201,110,21.8,174,249,No,Diabetes
+481,29,Male,114,72,39.0,117,134,Yes,Diabetes
+482,23,Female,82,83,34.9,155,214,No,Diabetes
+483,53,Female,101,103,18.7,205,245,No,No Diabetes
+484,32,Female,220,95,26.4,98,186,Yes,Diabetes
+485,39,Male,168,63,21.9,124,176,Yes,Diabetes
+486,64,Male,138,101,27.8,25,294,Yes,No Diabetes
+487,51,Male,114,98,37.2,129,184,No,Diabetes
+488,66,Female,178,84,38.4,250,184,Yes,Diabetes
+489,50,Female,203,99,27.5,67,121,No,Diabetes
+490,56,Female,146,103,20.6,47,206,No,Diabetes
+491,61,Female,140,76,33.7,167,168,Yes,Diabetes
+492,54,Male,84,98,27.7,178,294,Yes,No Diabetes
+493,67,Male,197,78,24.2,229,223,No,Diabetes
+494,68,Male,219,105,41.9,112,207,Yes,Diabetes
+495,64,Female,161,92,25.2,102,288,Yes,Diabetes
+496,39,Male,190,68,35.8,108,294,No,Diabetes
+497,62,Male,126,82,23.4,172,227,No,No Diabetes
+498,44,Female,219,78,29.1,75,240,Yes,Diabetes
+499,76,Male,190,72,30.0,210,255,No,Diabetes
+500,47,Male,108,68,41.8,190,224,No,Diabetes
+501,30,Female,116,109,19.9,185,281,Yes,No Diabetes
+502,41,Male,71,88,24.6,101,267,Yes,No Diabetes
+503,52,Male,103,99,28.4,234,223,No,No Diabetes
+504,51,Female,71,62,30.8,206,123,No,Diabetes
+505,69,Male,74,103,18.1,142,177,No,No Diabetes
+506,40,Male,96,84,30.1,171,162,Yes,Diabetes
+507,73,Male,146,78,28.9,281,272,No,Diabetes
+508,48,Male,157,91,26.6,111,162,No,Diabetes
+509,22,Male,127,106,41.6,123,125,Yes,Diabetes
+510,28,Female,79,84,39.0,145,256,Yes,Diabetes
+511,59,Male,97,101,38.1,39,296,Yes,Diabetes
+512,47,Female,167,67,31.1,257,299,Yes,Diabetes
+513,34,Male,147,86,33.9,281,189,Yes,Diabetes
+514,47,Male,200,106,32.8,159,149,Yes,Diabetes
+515,52,Male,121,109,24.3,282,171,No,No Diabetes
+516,66,Female,145,70,18.9,269,173,No,Diabetes
+517,42,Male,70,60,34.1,71,266,No,Diabetes
+518,30,Male,200,64,35.4,66,185,Yes,Diabetes
+519,50,Female,137,89,19.2,104,130,No,No Diabetes
+520,44,Female,179,107,20.8,38,122,Yes,Diabetes
+521,63,Male,154,82,39.5,152,143,No,Diabetes
+522,73,Female,116,67,27.6,248,189,No,No Diabetes
+523,65,Female,177,101,39.3,100,148,Yes,Diabetes
+524,65,Male,110,66,28.0,262,265,No,No Diabetes
+525,32,Female,161,99,18.7,81,243,No,Diabetes
+526,28,Female,182,62,19.5,175,123,Yes,Diabetes
+527,63,Female,202,93,34.5,63,230,Yes,Diabetes
+528,51,Female,168,69,38.1,300,276,Yes,Diabetes
+529,21,Male,199,90,38.4,99,139,No,Diabetes
+530,41,Male,154,77,19.2,129,260,No,Diabetes
+531,46,Male,90,89,28.7,244,142,No,No Diabetes
+532,49,Female,100,91,35.9,24,146,No,Diabetes
+533,47,Male,212,95,18.0,61,274,No,Diabetes
+534,77,Male,186,81,26.7,42,177,No,Diabetes
+535,42,Female,163,105,28.9,64,288,Yes,Diabetes
+536,21,Female,160,100,41.1,164,260,No,Diabetes
+537,65,Male,81,70,29.8,224,147,No,No Diabetes
+538,60,Male,118,67,40.3,216,175,No,Diabetes
+539,73,Male,156,66,36.2,38,282,Yes,Diabetes
+540,70,Female,187,102,32.1,273,154,No,Diabetes
+541,21,Male,211,87,38.1,262,250,Yes,Diabetes
+542,65,Male,102,66,27.3,179,249,No,No Diabetes
+543,47,Male,140,85,41.1,165,235,Yes,Diabetes
+544,29,Female,201,79,38.2,295,200,Yes,Diabetes
+545,33,Male,144,103,26.3,82,286,Yes,Diabetes
+546,53,Female,99,108,26.5,260,269,No,No Diabetes
+547,64,Female,178,60,30.5,27,217,Yes,Diabetes
+548,24,Male,121,77,36.0,97,193,No,Diabetes
+549,30,Male,145,73,36.1,31,211,No,Diabetes
+550,27,Male,213,84,23.7,162,297,Yes,Diabetes
+551,80,Female,169,86,41.0,175,261,Yes,Diabetes
+552,21,Female,121,99,38.9,241,177,No,Diabetes
+553,69,Male,119,78,28.8,53,167,Yes,No Diabetes
+554,68,Male,166,62,28.3,299,187,Yes,Diabetes
+555,31,Female,71,81,29.2,94,130,Yes,No Diabetes
+556,80,Female,83,109,40.4,169,245,No,Diabetes
+557,25,Female,204,74,41.0,281,137,Yes,Diabetes
+558,47,Female,93,82,23.3,124,289,No,No Diabetes
+559,42,Female,145,73,40.8,286,241,Yes,Diabetes
+560,28,Female,184,75,39.7,139,130,No,Diabetes
+561,45,Male,168,76,31.0,159,126,No,Diabetes
+562,53,Female,194,62,25.1,113,202,Yes,Diabetes
+563,27,Male,207,94,18.2,48,173,Yes,Diabetes
+564,76,Female,96,73,30.9,237,285,Yes,Diabetes
+565,68,Male,76,89,35.2,34,142,Yes,Diabetes
+566,24,Male,134,95,19.7,131,186,No,No Diabetes
+567,45,Female,173,87,25.6,214,292,Yes,Diabetes
+568,55,Male,86,108,35.9,38,299,Yes,Diabetes
+569,43,Male,144,110,34.5,59,192,No,Diabetes
+570,45,Female,77,90,21.8,127,154,No,No Diabetes
+571,71,Female,106,79,34.3,206,122,Yes,Diabetes
+572,28,Male,71,96,32.3,290,260,Yes,Diabetes
+573,40,Male,158,73,27.9,277,156,Yes,Diabetes
+574,32,Male,134,72,20.8,42,260,No,No Diabetes
+575,62,Male,144,102,19.6,65,170,No,Diabetes
+576,42,Female,102,102,33.7,66,192,Yes,Diabetes
+577,78,Male,151,91,28.8,171,297,Yes,Diabetes
+578,57,Female,150,87,22.0,175,183,Yes,Diabetes
+579,66,Female,140,83,21.2,184,242,No,No Diabetes
+580,49,Female,148,91,31.2,104,285,Yes,Diabetes
+581,74,Female,105,94,22.7,54,139,Yes,No Diabetes
+582,75,Male,218,97,27.7,123,129,No,Diabetes
+583,55,Female,108,83,27.4,163,154,No,No Diabetes
+584,53,Male,171,83,30.1,137,277,Yes,Diabetes
+585,69,Male,184,70,22.3,89,243,No,Diabetes
+586,23,Male,194,74,19.5,204,179,Yes,Diabetes
+587,63,Male,202,110,26.7,255,236,Yes,Diabetes
+588,23,Female,96,105,41.2,155,187,Yes,Diabetes
+589,45,Female,163,97,33.7,54,252,No,Diabetes
+590,45,Male,202,85,26.5,191,244,No,Diabetes
+591,77,Male,198,68,28.6,132,139,No,Diabetes
+592,34,Male,117,70,26.7,75,289,Yes,No Diabetes
+593,47,Female,99,90,34.2,260,173,Yes,Diabetes
+594,62,Female,75,75,19.0,97,154,Yes,No Diabetes
+595,78,Male,84,70,24.2,107,252,No,No Diabetes
+596,59,Male,142,65,23.2,256,243,Yes,Diabetes
+597,35,Female,106,110,32.0,108,279,No,Diabetes
+598,31,Female,186,98,32.2,132,216,No,Diabetes
+599,29,Male,74,72,30.5,273,295,No,Diabetes
+600,73,Male,94,71,29.4,34,256,Yes,No Diabetes
+601,26,Female,103,98,30.9,15,293,No,Diabetes
+602,54,Female,164,62,34.7,234,178,No,Diabetes
+603,71,Female,159,97,37.3,65,228,Yes,Diabetes
+604,37,Female,129,65,24.8,293,224,No,No Diabetes
+605,33,Male,71,96,30.5,281,121,No,Diabetes
+606,62,Male,150,86,26.7,94,229,No,Diabetes
+607,37,Female,214,83,32.7,218,172,No,Diabetes
+608,56,Female,115,83,31.4,262,184,No,Diabetes
+609,57,Female,171,107,21.3,75,178,No,Diabetes
+610,71,Male,95,73,30.2,188,260,Yes,Diabetes
+611,31,Female,71,65,37.8,256,273,No,Diabetes
+612,26,Male,137,74,26.9,34,218,No,No Diabetes
+613,60,Female,84,109,37.7,268,232,Yes,Diabetes
+614,33,Female,119,62,36.8,276,252,Yes,Diabetes
+615,60,Male,79,83,23.7,15,160,Yes,No Diabetes
+616,38,Female,160,102,27.5,117,252,Yes,Diabetes
+617,68,Male,93,95,24.8,193,208,No,No Diabetes
+618,35,Male,186,85,31.8,148,164,No,Diabetes
+619,53,Male,213,64,30.1,189,149,No,Diabetes
+620,77,Female,183,84,31.5,139,206,No,Diabetes
+621,64,Female,220,61,29.6,147,137,No,Diabetes
+622,61,Male,128,80,27.9,195,252,Yes,No Diabetes
+623,65,Female,133,78,20.2,190,139,Yes,No Diabetes
+624,51,Female,160,73,39.5,152,166,Yes,Diabetes
+625,52,Male,130,107,23.8,150,172,Yes,No Diabetes
+626,33,Male,161,69,36.7,76,140,No,Diabetes
+627,60,Male,208,62,38.4,205,278,No,Diabetes
+628,52,Female,195,71,41.6,276,191,No,Diabetes
+629,35,Male,83,93,37.2,259,258,Yes,Diabetes
+630,53,Female,170,103,36.6,249,150,No,Diabetes
+631,41,Male,73,103,23.1,66,203,No,No Diabetes
+632,60,Female,117,95,24.3,152,240,No,No Diabetes
+633,44,Male,197,87,23.1,205,213,No,Diabetes
+634,38,Female,116,96,21.1,132,145,No,No Diabetes
+635,72,Male,212,87,38.6,115,157,Yes,Diabetes
+636,51,Male,115,86,30.0,279,256,No,No Diabetes
+637,71,Female,146,76,31.5,39,221,Yes,Diabetes
+638,65,Male,85,73,37.5,258,281,Yes,Diabetes
+639,49,Female,136,83,26.6,300,185,No,No Diabetes
+640,22,Female,101,82,38.8,116,267,Yes,Diabetes
+641,70,Female,160,80,34.2,264,234,Yes,Diabetes
+642,45,Female,188,100,41.0,100,283,No,Diabetes
+643,47,Female,88,65,21.9,131,200,No,No Diabetes
+644,62,Female,138,98,33.5,153,233,No,Diabetes
+645,68,Female,175,70,22.4,26,152,Yes,Diabetes
+646,63,Female,90,73,22.0,67,144,Yes,No Diabetes
+647,80,Female,210,63,18.6,218,254,Yes,Diabetes
+648,27,Female,109,65,33.7,214,199,Yes,Diabetes
+649,36,Female,183,100,21.0,284,163,Yes,Diabetes
+650,23,Female,153,90,29.2,291,189,No,Diabetes
+651,29,Male,186,100,36.0,237,254,No,Diabetes
+652,79,Female,193,94,23.5,60,233,No,Diabetes
+653,44,Female,136,69,25.3,15,253,Yes,No Diabetes
+654,43,Female,190,94,18.2,266,242,No,Diabetes
+655,21,Female,144,98,23.5,18,260,No,Diabetes
+656,33,Female,213,87,27.5,98,285,No,Diabetes
+657,74,Female,126,76,19.9,137,252,No,No Diabetes
+658,39,Female,175,72,38.5,108,154,No,Diabetes
+659,28,Female,185,77,34.8,266,168,No,Diabetes
+660,22,Male,82,94,18.5,67,192,No,No Diabetes
+661,29,Female,72,74,20.2,22,246,Yes,No Diabetes
+662,42,Female,149,110,37.2,205,238,Yes,Diabetes
+663,42,Male,107,63,24.4,215,138,No,No Diabetes
+664,32,Male,134,84,37.9,77,183,No,Diabetes
+665,70,Female,133,107,41.9,116,237,Yes,Diabetes
+666,54,Male,191,84,34.4,174,202,Yes,Diabetes
+667,61,Male,210,93,20.9,261,283,No,Diabetes
+668,33,Female,83,102,23.2,72,180,No,No Diabetes
+669,41,Male,112,110,24.6,76,221,Yes,No Diabetes
+670,21,Male,218,110,34.6,94,215,Yes,Diabetes
+671,36,Male,197,65,34.5,188,280,Yes,Diabetes
+672,24,Female,109,104,30.9,69,152,No,Diabetes
+673,35,Female,212,110,33.5,192,232,Yes,Diabetes
+674,22,Female,161,106,21.2,35,244,No,Diabetes
+675,56,Female,208,104,29.8,110,259,No,Diabetes
+676,41,Female,140,98,39.9,298,161,Yes,Diabetes
+677,54,Male,185,78,37.7,292,213,No,Diabetes
+678,21,Female,117,61,32.9,201,278,Yes,Diabetes
+679,41,Male,207,84,22.6,269,261,Yes,Diabetes
+680,60,Female,152,86,33.4,71,144,Yes,Diabetes
+681,23,Male,115,62,22.8,263,169,Yes,No Diabetes
+682,23,Female,195,93,33.0,146,132,No,Diabetes
+683,35,Male,73,73,33.7,55,239,Yes,Diabetes
+684,44,Female,164,110,35.0,151,255,Yes,Diabetes
+685,67,Male,147,64,40.7,280,144,Yes,Diabetes
+686,67,Male,206,84,22.5,284,288,Yes,Diabetes
+687,57,Male,212,107,31.4,69,283,No,Diabetes
+688,64,Female,179,66,22.0,107,260,No,Diabetes
+689,53,Female,110,94,42.0,241,210,No,Diabetes
+690,56,Female,165,86,36.3,235,202,Yes,Diabetes
+691,57,Male,166,109,31.2,145,212,No,Diabetes
+692,49,Female,70,106,18.8,160,272,Yes,No Diabetes
+693,54,Male,147,60,25.2,128,174,No,Diabetes
+694,22,Female,211,92,31.4,94,144,Yes,Diabetes
+695,50,Female,109,68,24.4,142,179,No,No Diabetes
+696,72,Female,93,96,27.6,126,139,No,No Diabetes
+697,71,Female,114,91,37.8,63,272,No,Diabetes
+698,23,Female,90,109,19.3,186,209,No,No Diabetes
+699,47,Male,128,107,33.7,20,282,No,Diabetes
+700,24,Female,204,62,25.7,91,203,Yes,Diabetes
+701,30,Male,170,88,36.1,273,143,Yes,Diabetes
+702,48,Female,170,69,21.2,57,241,Yes,Diabetes
+703,56,Female,137,65,27.6,237,298,Yes,No Diabetes
+704,69,Male,193,95,22.8,217,286,Yes,Diabetes
+705,56,Male,132,64,24.4,235,202,Yes,No Diabetes
+706,28,Female,178,83,26.4,179,208,Yes,Diabetes
+707,70,Female,113,82,32.8,241,279,Yes,Diabetes
+708,49,Male,129,72,34.4,94,141,Yes,Diabetes
+709,68,Male,132,99,40.2,162,123,No,Diabetes
+710,65,Male,148,88,29.3,184,173,Yes,Diabetes
+711,34,Female,210,90,33.0,87,297,Yes,Diabetes
+712,45,Male,135,70,19.4,117,298,No,No Diabetes
+713,24,Female,72,64,27.3,153,289,No,No Diabetes
+714,76,Male,74,78,38.8,212,179,No,Diabetes
+715,53,Male,150,91,38.8,287,142,Yes,Diabetes
+716,33,Female,213,105,18.5,141,255,No,Diabetes
+717,42,Female,170,107,21.8,192,295,No,Diabetes
+718,43,Female,130,92,24.6,46,280,No,No Diabetes
+719,77,Female,77,95,40.8,130,158,No,Diabetes
+720,78,Female,105,65,35.5,281,293,Yes,Diabetes
+721,47,Male,216,69,28.2,174,274,No,Diabetes
+722,49,Male,122,101,21.3,292,295,Yes,No Diabetes
+723,76,Male,149,104,34.9,283,154,No,Diabetes
+724,79,Male,214,70,25.6,300,256,Yes,Diabetes
+725,32,Female,107,106,18.7,178,225,No,No Diabetes
+726,40,Female,140,69,36.7,69,153,Yes,Diabetes
+727,22,Female,215,99,23.5,133,179,Yes,Diabetes
+728,43,Male,192,68,30.1,255,286,No,Diabetes
+729,32,Female,195,90,21.3,113,177,Yes,Diabetes
+730,47,Male,139,86,23.3,118,172,Yes,No Diabetes
+731,32,Female,195,104,25.8,249,183,No,Diabetes
+732,46,Male,167,106,25.5,289,254,Yes,Diabetes
+733,54,Male,185,89,37.8,36,182,No,Diabetes
+734,68,Male,212,84,30.4,40,168,No,Diabetes
+735,49,Female,147,109,37.9,251,162,No,Diabetes
+736,39,Male,202,69,29.1,246,143,Yes,Diabetes
+737,32,Male,170,86,25.8,27,165,No,Diabetes
+738,58,Male,186,65,24.0,98,151,Yes,Diabetes
+739,28,Female,162,65,30.6,211,250,Yes,Diabetes
+740,45,Female,81,109,22.1,186,264,Yes,No Diabetes
+741,31,Male,115,109,35.1,229,198,No,Diabetes
+742,67,Female,143,100,22.3,82,171,Yes,Diabetes
+743,60,Female,73,89,29.9,270,259,Yes,No Diabetes
+744,59,Female,130,73,32.1,258,236,No,Diabetes
+745,49,Male,71,75,39.2,157,278,Yes,Diabetes
+746,24,Male,107,63,33.7,33,157,Yes,Diabetes
+747,63,Female,154,65,19.2,228,165,Yes,Diabetes
+748,64,Female,216,110,31.5,248,268,No,Diabetes
+749,80,Male,93,109,25.2,203,217,Yes,No Diabetes
+750,69,Female,210,64,25.0,83,151,No,Diabetes
+751,42,Female,204,73,34.7,44,147,Yes,Diabetes
+752,51,Female,179,98,38.3,147,254,No,Diabetes
+753,80,Male,214,91,30.5,269,246,Yes,Diabetes
+754,77,Male,144,72,18.0,27,239,Yes,Diabetes
+755,68,Male,176,86,19.1,194,263,Yes,Diabetes
+756,21,Male,142,76,37.0,172,196,No,Diabetes
+757,70,Male,99,103,26.0,217,265,Yes,No Diabetes
+758,74,Male,119,81,38.0,260,241,Yes,Diabetes
+759,62,Male,193,69,33.1,289,205,No,Diabetes
+760,71,Female,84,93,25.2,176,262,Yes,No Diabetes
+761,34,Female,160,64,41.3,158,127,No,Diabetes
+762,45,Male,216,98,27.3,74,198,No,Diabetes
+763,66,Male,139,86,20.1,136,215,No,No Diabetes
+764,74,Female,125,93,25.3,72,215,Yes,No Diabetes
+765,70,Male,93,88,30.1,262,248,Yes,Diabetes
+766,33,Female,193,106,39.0,173,203,Yes,Diabetes
+767,70,Male,202,103,41.8,120,129,No,Diabetes
+768,45,Male,71,79,40.4,59,205,No,Diabetes
+769,77,Male,96,93,36.4,174,125,No,Diabetes
+770,61,Male,152,72,22.6,156,256,No,Diabetes
+771,70,Female,100,77,21.6,155,149,Yes,No Diabetes
+772,60,Male,122,94,26.4,178,189,Yes,No Diabetes
+773,66,Female,216,75,22.1,174,276,No,Diabetes
+774,55,Female,82,68,18.7,40,147,No,No Diabetes
+775,24,Male,179,85,22.3,243,277,No,Diabetes
+776,40,Female,120,105,36.2,288,140,No,Diabetes
+777,57,Male,93,104,29.2,248,199,No,No Diabetes
+778,51,Male,127,69,38.7,147,213,No,Diabetes
+779,32,Female,153,89,29.7,48,241,Yes,Diabetes
+780,43,Female,188,70,24.8,193,274,Yes,Diabetes
+781,53,Male,173,105,37.1,181,262,Yes,Diabetes
+782,71,Female,206,89,27.6,226,181,Yes,Diabetes
+783,56,Male,193,84,19.6,121,297,No,Diabetes
+784,71,Female,215,110,26.2,135,164,Yes,Diabetes
+785,68,Female,99,97,32.3,181,262,Yes,Diabetes
+786,73,Female,115,79,40.9,50,273,Yes,Diabetes
+787,64,Female,153,91,33.5,46,143,Yes,Diabetes
+788,73,Male,218,108,33.3,15,157,Yes,Diabetes
+789,49,Female,169,99,31.9,115,172,No,Diabetes
+790,40,Female,181,105,41.6,191,142,Yes,Diabetes
+791,60,Female,102,78,19.5,296,133,Yes,No Diabetes
+792,66,Female,98,78,38.8,135,230,No,Diabetes
+793,61,Female,167,85,27.2,294,174,Yes,Diabetes
+794,51,Male,118,95,27.2,199,226,Yes,No Diabetes
+795,39,Male,104,60,19.7,23,156,No,No Diabetes
+796,63,Female,104,65,21.3,227,236,No,No Diabetes
+797,60,Male,186,92,28.2,245,218,No,Diabetes
+798,35,Male,178,98,18.2,270,180,No,Diabetes
+799,47,Female,78,62,31.6,203,148,No,Diabetes
+800,65,Male,106,106,35.6,158,239,Yes,Diabetes
+801,54,Male,132,90,33.1,54,295,No,Diabetes
+802,60,Male,157,94,36.7,255,236,No,Diabetes
+803,57,Female,177,82,41.1,165,194,Yes,Diabetes
+804,23,Female,214,76,19.5,257,268,Yes,Diabetes
+805,57,Male,144,107,33.0,161,244,Yes,Diabetes
+806,29,Male,141,76,21.2,158,190,No,Diabetes
+807,21,Male,114,97,35.7,243,214,Yes,Diabetes
+808,37,Male,194,71,37.2,31,207,Yes,Diabetes
+809,30,Male,196,108,41.8,211,180,No,Diabetes
+810,67,Male,123,96,35.6,191,133,No,Diabetes
+811,69,Male,83,70,29.1,258,197,No,No Diabetes
+812,68,Male,167,103,34.9,257,187,Yes,Diabetes
+813,54,Female,73,78,40.3,244,217,No,Diabetes
+814,54,Male,94,94,33.3,236,276,No,Diabetes
+815,42,Female,138,66,24.1,215,238,Yes,No Diabetes
+816,67,Male,203,81,34.3,107,200,Yes,Diabetes
+817,64,Male,87,60,27.9,283,146,No,No Diabetes
+818,43,Male,142,76,22.6,27,278,Yes,Diabetes
+819,24,Male,101,105,41.0,59,274,Yes,Diabetes
+820,45,Male,98,104,22.4,165,239,Yes,No Diabetes
+821,61,Female,140,109,28.2,180,185,Yes,No Diabetes
+822,70,Male,140,109,19.5,213,205,Yes,No Diabetes
+823,37,Female,115,88,19.7,117,276,No,No Diabetes
+824,32,Female,97,69,31.0,235,175,Yes,Diabetes
+825,79,Female,136,66,18.8,51,266,No,No Diabetes
+826,70,Female,74,91,21.6,15,129,No,No Diabetes
+827,38,Male,154,85,31.8,278,245,No,Diabetes
+828,48,Female,87,94,23.4,211,296,No,No Diabetes
+829,28,Female,155,103,25.3,43,281,Yes,Diabetes
+830,44,Female,90,89,36.3,163,285,Yes,Diabetes
+831,32,Male,168,102,22.6,214,147,No,Diabetes
+832,52,Male,182,107,22.5,33,169,Yes,Diabetes
+833,67,Male,195,84,19.5,291,284,No,Diabetes
+834,52,Female,74,62,26.1,187,130,No,No Diabetes
+835,28,Male,203,89,40.6,289,158,Yes,Diabetes
+836,80,Male,79,107,21.4,24,240,Yes,No Diabetes
+837,36,Male,73,71,33.2,172,144,No,Diabetes
+838,60,Male,86,66,20.7,127,136,Yes,No Diabetes
+839,48,Female,172,80,20.9,294,155,No,Diabetes
+840,74,Male,81,97,22.2,47,150,No,No Diabetes
+841,30,Female,113,104,26.9,99,232,Yes,No Diabetes
+842,80,Male,104,66,37.0,207,160,Yes,Diabetes
+843,77,Female,90,60,18.2,60,300,No,No Diabetes
+844,47,Female,102,73,21.4,153,253,No,No Diabetes
+845,47,Male,114,99,34.6,107,247,Yes,Diabetes
+846,61,Female,159,86,18.1,135,169,Yes,Diabetes
+847,54,Male,162,108,41.7,274,176,No,Diabetes
+848,70,Male,140,63,22.6,91,295,No,No Diabetes
+849,52,Male,110,102,40.1,42,285,No,Diabetes
+850,39,Male,181,76,26.0,247,131,Yes,Diabetes
+851,68,Male,207,71,21.8,29,244,Yes,Diabetes
+852,25,Male,183,97,31.9,229,170,No,Diabetes
+853,35,Male,153,74,20.4,226,171,No,Diabetes
+854,78,Male,88,90,32.0,42,231,Yes,Diabetes
+855,34,Female,115,84,27.0,249,169,No,No Diabetes
+856,38,Male,155,68,18.8,45,191,Yes,Diabetes
+857,28,Female,187,86,22.1,190,176,No,Diabetes
+858,59,Male,113,96,41.3,132,142,No,Diabetes
+859,75,Female,125,97,29.4,251,191,Yes,No Diabetes
+860,67,Female,133,75,25.9,128,271,Yes,No Diabetes
+861,79,Male,176,62,19.0,255,249,Yes,Diabetes
+862,48,Female,192,104,37.7,246,246,Yes,Diabetes
+863,26,Male,174,73,21.2,166,181,Yes,Diabetes
+864,22,Female,148,70,34.9,27,236,No,Diabetes
+865,70,Male,173,71,37.0,204,280,No,Diabetes
+866,66,Male,88,84,39.4,185,255,Yes,Diabetes
+867,39,Female,139,104,40.7,292,267,Yes,Diabetes
+868,71,Male,155,107,40.4,278,292,No,Diabetes
+869,77,Male,98,84,26.8,35,213,No,No Diabetes
+870,32,Male,213,105,36.6,85,205,Yes,Diabetes
+871,55,Male,192,107,40.5,122,177,No,Diabetes
+872,43,Female,198,103,28.2,42,136,No,Diabetes
+873,43,Female,194,92,30.6,77,240,No,Diabetes
+874,49,Female,86,72,39.4,249,142,Yes,Diabetes
+875,46,Male,143,64,20.6,156,148,Yes,Diabetes
+876,52,Male,122,93,40.9,26,195,No,Diabetes
+877,64,Male,191,82,28.1,25,194,Yes,Diabetes
+878,25,Male,129,93,33.5,225,268,No,Diabetes
+879,62,Female,194,97,34.0,286,260,No,Diabetes
+880,50,Female,215,68,39.6,171,163,No,Diabetes
+881,35,Female,165,78,36.5,39,157,No,Diabetes
+882,39,Female,112,99,40.2,289,193,Yes,Diabetes
+883,32,Male,111,75,20.8,177,267,Yes,No Diabetes
+884,49,Female,164,71,22.9,32,290,No,Diabetes
+885,43,Male,165,88,31.0,98,256,No,Diabetes
+886,28,Male,173,91,36.4,249,201,Yes,Diabetes
+887,21,Female,145,90,39.5,90,264,No,Diabetes
+888,42,Male,192,62,21.3,297,149,No,Diabetes
+889,22,Female,126,88,26.6,182,134,Yes,No Diabetes
+890,58,Male,141,72,18.5,290,234,Yes,Diabetes
+891,53,Female,119,91,25.6,276,134,No,No Diabetes
+892,46,Male,179,83,27.3,21,192,No,Diabetes
+893,43,Female,184,95,20.1,242,226,No,Diabetes
+894,39,Male,178,106,39.5,86,270,Yes,Diabetes
+895,30,Male,147,90,41.7,283,205,Yes,Diabetes
+896,80,Female,92,60,27.8,154,226,Yes,No Diabetes
+897,56,Female,215,108,40.0,117,167,No,Diabetes
+898,39,Female,80,79,38.0,170,246,No,Diabetes
+899,35,Male,70,69,24.3,256,151,No,No Diabetes
+900,47,Male,195,104,33.5,29,150,No,Diabetes
+901,52,Male,162,97,29.5,238,186,No,Diabetes
+902,65,Male,165,92,35.6,23,186,Yes,Diabetes
+903,58,Male,107,80,29.1,84,211,Yes,No Diabetes
+904,24,Female,162,86,33.3,197,132,No,Diabetes
+905,39,Male,201,72,36.4,108,144,Yes,Diabetes
+906,55,Female,150,103,37.2,153,295,No,Diabetes
+907,27,Female,106,60,21.3,159,215,No,No Diabetes
+908,47,Female,111,66,23.2,272,176,Yes,No Diabetes
+909,71,Male,176,89,40.0,74,153,Yes,Diabetes
+910,51,Female,149,104,26.7,241,272,No,Diabetes
+911,32,Female,77,107,37.5,128,152,Yes,Diabetes
+912,65,Male,148,68,23.0,55,228,Yes,Diabetes
+913,25,Male,193,108,28.3,115,147,Yes,Diabetes
+914,71,Male,190,67,39.8,37,136,No,Diabetes
+915,63,Male,94,110,21.0,120,270,Yes,No Diabetes
+916,32,Female,77,65,21.5,157,268,No,No Diabetes
+917,43,Male,198,109,35.5,138,249,Yes,Diabetes
+918,27,Male,205,73,35.2,159,163,Yes,Diabetes
+919,67,Male,124,92,38.4,258,213,Yes,Diabetes
+920,49,Male,116,82,41.6,232,174,Yes,Diabetes
+921,47,Male,150,67,29.2,281,154,No,Diabetes
+922,69,Female,143,95,35.3,57,203,No,Diabetes
+923,28,Female,142,89,32.4,174,295,No,Diabetes
+924,35,Female,144,87,22.5,50,241,No,Diabetes
+925,32,Male,195,103,20.5,239,253,Yes,Diabetes
+926,28,Male,171,85,34.7,67,163,Yes,Diabetes
+927,44,Male,156,72,32.3,221,151,Yes,Diabetes
+928,74,Female,197,77,36.4,154,284,No,Diabetes
+929,43,Female,173,91,30.3,90,236,Yes,Diabetes
+930,28,Female,195,91,23.5,83,127,Yes,Diabetes
+931,68,Male,87,91,34.3,106,217,No,Diabetes
+932,30,Female,94,108,19.8,281,246,No,No Diabetes
+933,33,Female,197,91,30.1,292,207,Yes,Diabetes
+934,69,Male,180,67,27.2,176,216,No,Diabetes
+935,50,Male,78,71,31.4,170,300,Yes,Diabetes
+936,52,Female,104,79,35.2,264,148,No,Diabetes
+937,63,Female,191,95,38.5,274,134,No,Diabetes
+938,37,Female,166,99,34.2,160,202,Yes,Diabetes
+939,22,Male,102,83,26.4,28,280,No,No Diabetes
+940,45,Male,179,82,41.8,225,209,Yes,Diabetes
+941,63,Male,133,75,33.6,58,296,Yes,Diabetes
+942,76,Female,99,81,22.1,290,203,Yes,No Diabetes
+943,50,Female,215,92,39.6,151,125,No,Diabetes
+944,58,Male,151,84,31.7,180,266,Yes,Diabetes
+945,72,Female,95,104,34.2,187,247,No,Diabetes
+946,31,Female,163,87,22.8,53,257,Yes,Diabetes
+947,39,Female,82,79,41.9,220,177,Yes,Diabetes
+948,66,Male,156,77,19.6,286,241,No,Diabetes
+949,34,Female,89,101,37.8,273,196,No,Diabetes
+950,63,Female,121,86,27.7,278,236,Yes,No Diabetes
+951,77,Male,202,71,31.8,124,289,No,Diabetes
+952,38,Female,214,106,33.0,282,171,No,Diabetes
+953,50,Male,131,69,35.9,168,231,No,Diabetes
+954,41,Male,122,86,24.4,161,285,Yes,No Diabetes
+955,37,Male,173,75,20.7,113,127,Yes,Diabetes
+956,72,Female,188,91,31.4,238,228,Yes,Diabetes
+957,33,Male,139,68,18.7,157,288,Yes,No Diabetes
+958,62,Male,194,110,18.5,57,200,No,Diabetes
+959,76,Male,174,83,34.1,61,221,Yes,Diabetes
+960,36,Male,216,107,30.0,76,253,No,Diabetes
+961,52,Male,130,98,20.9,175,204,No,No Diabetes
+962,72,Male,178,73,21.5,104,174,No,Diabetes
+963,49,Female,135,97,19.3,288,215,Yes,No Diabetes
+964,41,Female,191,103,23.9,157,157,No,Diabetes
+965,51,Female,148,61,33.5,32,289,Yes,Diabetes
+966,65,Male,134,95,27.2,200,295,Yes,No Diabetes
+967,55,Male,183,84,18.2,216,185,No,Diabetes
+968,26,Male,146,73,38.6,97,232,No,Diabetes
+969,77,Female,78,77,38.8,266,240,No,Diabetes
+970,80,Female,178,66,37.8,148,249,Yes,Diabetes
+971,43,Female,210,107,25.8,29,133,Yes,Diabetes
+972,61,Female,104,60,27.6,171,200,Yes,No Diabetes
+973,28,Male,133,93,35.1,81,272,No,Diabetes
+974,71,Female,185,90,39.0,83,186,Yes,Diabetes
+975,64,Female,142,72,20.0,203,166,No,Diabetes
+976,77,Female,216,74,18.5,26,262,Yes,Diabetes
+977,79,Male,188,72,24.3,101,132,No,Diabetes
+978,60,Female,136,69,20.1,203,163,Yes,No Diabetes
+979,21,Female,186,103,29.9,129,172,Yes,Diabetes
+980,76,Female,143,107,29.9,81,230,Yes,Diabetes
+981,59,Male,142,106,34.3,229,166,No,Diabetes
+982,71,Male,77,78,41.4,135,278,No,Diabetes
+983,79,Male,164,97,34.4,249,141,Yes,Diabetes
+984,51,Male,152,104,27.5,123,218,No,Diabetes
+985,68,Female,88,66,31.4,41,205,Yes,Diabetes
+986,51,Female,81,60,24.1,210,197,No,No Diabetes
+987,63,Female,103,95,19.0,106,186,Yes,No Diabetes
+988,53,Female,156,89,21.2,177,255,No,Diabetes
+989,30,Female,99,80,19.1,80,247,No,No Diabetes
+990,68,Female,180,78,39.7,149,276,No,Diabetes
+991,54,Female,181,70,25.6,266,158,No,Diabetes
+992,24,Male,108,63,23.5,33,240,No,No Diabetes
+993,31,Female,181,67,41.9,268,130,No,Diabetes
+994,43,Female,187,91,20.7,90,151,No,Diabetes
+995,26,Male,142,71,38.0,275,189,Yes,Diabetes
+996,58,Male,204,109,31.7,228,139,Yes,Diabetes
+997,70,Female,94,81,18.6,77,220,No,No Diabetes
+998,58,Male,152,69,18.7,250,288,No,Diabetes
+999,50,Female,71,81,41.3,246,203,Yes,Diabetes
+1000,34,Male,142,80,37.2,51,260,No,Diabetes
+1001,26,Female,135,71,23.8,219,142,Yes,No Diabetes
+1002,75,Male,111,84,36.7,160,285,Yes,Diabetes
+1003,28,Female,195,87,35.7,173,295,Yes,Diabetes
+1004,43,Male,164,92,22.8,243,219,No,Diabetes
+1005,38,Female,93,108,28.1,203,277,Yes,No Diabetes
+1006,48,Female,93,62,30.3,252,293,Yes,Diabetes
+1007,62,Male,196,93,33.1,283,141,No,Diabetes
+1008,50,Female,90,90,25.2,80,295,No,No Diabetes
+1009,74,Male,203,87,25.1,39,261,Yes,Diabetes
+1010,79,Male,201,66,30.3,226,144,No,Diabetes
+1011,63,Female,160,76,32.1,272,124,Yes,Diabetes
+1012,68,Female,115,110,22.4,216,131,Yes,No Diabetes
+1013,47,Female,150,97,35.4,245,279,No,Diabetes
+1014,42,Male,124,71,19.9,147,292,Yes,No Diabetes
+1015,48,Male,71,85,20.8,102,287,No,No Diabetes
+1016,50,Female,194,79,32.8,199,296,No,Diabetes
+1017,72,Female,92,68,21.2,112,148,Yes,No Diabetes
+1018,65,Male,76,73,29.5,89,286,Yes,No Diabetes
+1019,48,Male,92,79,36.5,90,241,No,Diabetes
+1020,22,Male,112,69,35.7,242,244,No,Diabetes
+1021,22,Female,219,75,22.8,215,133,No,Diabetes
+1022,21,Male,180,86,38.4,298,194,Yes,Diabetes
+1023,52,Female,194,92,32.2,264,179,Yes,Diabetes
+1024,54,Male,178,96,25.6,47,188,No,Diabetes
+1025,77,Female,99,91,32.9,192,234,No,Diabetes
+1026,22,Male,143,106,22.6,191,232,Yes,Diabetes
+1027,53,Male,220,103,26.1,254,153,No,Diabetes
+1028,67,Female,176,103,33.7,199,240,Yes,Diabetes
+1029,60,Male,142,104,36.0,262,153,Yes,Diabetes
+1030,33,Male,195,66,37.0,267,197,Yes,Diabetes
+1031,34,Male,74,82,39.1,197,293,Yes,Diabetes
+1032,32,Male,86,81,28.3,131,150,Yes,No Diabetes
+1033,52,Female,157,110,26.5,38,262,No,Diabetes
+1034,78,Male,201,98,34.1,40,232,No,Diabetes
+1035,74,Male,97,110,32.7,67,263,Yes,Diabetes
+1036,53,Male,112,100,20.8,120,212,Yes,No Diabetes
+1037,67,Female,183,108,30.1,65,159,No,Diabetes
+1038,42,Male,101,72,28.5,227,121,Yes,No Diabetes
+1039,74,Female,157,78,30.1,58,188,No,Diabetes
+1040,66,Female,162,100,34.0,92,255,No,Diabetes
+1041,71,Male,105,87,27.9,224,237,No,No Diabetes
+1042,22,Female,107,109,18.2,279,137,Yes,No Diabetes
+1043,42,Female,172,109,21.9,46,220,Yes,Diabetes
+1044,63,Male,217,63,41.5,281,195,No,Diabetes
+1045,46,Female,150,82,18.2,158,255,Yes,Diabetes
+1046,65,Female,184,101,22.9,293,279,No,Diabetes
+1047,65,Female,173,109,22.7,169,141,Yes,Diabetes
+1048,55,Female,169,106,35.3,79,253,No,Diabetes
+1049,34,Male,200,95,25.5,189,282,Yes,Diabetes
+1050,22,Male,208,97,24.2,170,228,Yes,Diabetes
+1051,67,Male,165,76,33.0,196,151,Yes,Diabetes
+1052,69,Male,184,79,31.7,17,236,No,Diabetes
+1053,36,Male,159,79,24.8,86,216,Yes,Diabetes
+1054,27,Female,202,97,22.6,199,236,Yes,Diabetes
+1055,30,Female,175,65,20.2,232,153,No,Diabetes
+1056,34,Female,89,83,34.2,221,270,No,Diabetes
+1057,76,Female,219,91,33.3,240,296,No,Diabetes
+1058,67,Female,111,69,30.1,263,237,Yes,Diabetes
+1059,66,Male,124,89,29.4,95,263,No,No Diabetes
+1060,79,Male,174,67,20.9,163,130,Yes,Diabetes
+1061,28,Female,148,83,25.3,263,127,Yes,Diabetes
+1062,30,Female,82,79,39.3,125,166,No,Diabetes
+1063,21,Male,210,82,19.6,37,226,No,Diabetes
+1064,57,Female,214,88,39.6,208,241,Yes,Diabetes
+1065,69,Male,199,100,29.1,245,290,No,Diabetes
+1066,30,Female,92,99,33.9,224,219,Yes,Diabetes
+1067,78,Female,156,94,19.1,241,191,Yes,Diabetes
+1068,76,Male,76,96,33.1,173,263,Yes,Diabetes
+1069,62,Male,119,99,31.0,42,265,Yes,Diabetes
+1070,69,Female,198,61,20.9,287,166,Yes,Diabetes
+1071,38,Male,132,105,38.1,242,141,No,Diabetes
+1072,46,Male,195,61,26.2,107,226,Yes,Diabetes
+1073,76,Female,167,76,20.2,65,258,Yes,Diabetes
+1074,39,Male,116,76,36.4,93,198,No,Diabetes
+1075,64,Male,85,99,41.1,107,126,Yes,Diabetes
+1076,40,Female,95,80,21.4,180,186,No,No Diabetes
+1077,73,Male,83,72,23.8,136,246,No,No Diabetes
+1078,28,Female,85,80,29.2,223,136,No,No Diabetes
+1079,22,Female,129,61,24.5,66,183,Yes,No Diabetes
+1080,40,Female,184,65,38.3,271,172,Yes,Diabetes
+1081,44,Male,132,94,40.9,299,235,Yes,Diabetes
+1082,21,Female,144,101,41.3,15,135,No,Diabetes
+1083,38,Female,167,82,38.2,123,269,No,Diabetes
+1084,23,Male,206,96,19.7,60,221,Yes,Diabetes
+1085,74,Male,212,77,39.1,122,276,No,Diabetes
+1086,77,Female,136,108,35.0,154,182,No,Diabetes
+1087,42,Male,187,98,25.9,83,285,Yes,Diabetes
+1088,59,Female,71,60,34.1,226,262,No,Diabetes
+1089,69,Female,207,65,36.9,54,257,Yes,Diabetes
+1090,78,Female,101,82,41.3,207,273,No,Diabetes
+1091,45,Male,72,67,29.1,113,233,Yes,No Diabetes
+1092,35,Male,141,103,40.1,198,169,Yes,Diabetes
+1093,73,Female,126,74,41.5,200,129,No,Diabetes
+1094,52,Male,71,72,41.6,217,148,No,Diabetes
+1095,57,Female,113,95,22.7,104,136,Yes,No Diabetes
+1096,68,Male,102,76,40.4,131,253,No,Diabetes
+1097,33,Male,206,99,24.1,247,120,No,Diabetes
+1098,62,Male,152,87,38.3,223,190,Yes,Diabetes
+1099,64,Female,196,83,30.4,37,177,Yes,Diabetes
+1100,38,Female,206,88,25.6,215,169,No,Diabetes
+1101,26,Male,127,104,28.2,53,183,Yes,No Diabetes
+1102,31,Female,149,64,33.0,64,127,No,Diabetes
+1103,48,Male,155,76,23.9,257,181,No,Diabetes
+1104,74,Male,155,93,37.1,52,273,No,Diabetes
+1105,69,Male,184,97,21.0,46,128,No,Diabetes
+1106,41,Male,102,63,40.1,241,134,No,Diabetes
+1107,60,Female,86,66,34.3,41,195,No,Diabetes
+1108,46,Male,175,74,38.7,20,236,No,Diabetes
+1109,50,Female,95,81,33.6,28,236,No,Diabetes
+1110,58,Male,97,66,18.3,49,271,Yes,No Diabetes
+1111,78,Male,200,76,26.5,261,278,No,Diabetes
+1112,32,Male,105,62,19.5,174,269,No,No Diabetes
+1113,53,Female,149,97,39.2,89,157,No,Diabetes
+1114,40,Female,144,83,41.3,280,270,Yes,Diabetes
+1115,24,Male,199,95,38.6,231,208,Yes,Diabetes
+1116,33,Male,87,81,22.5,258,297,No,No Diabetes
+1117,59,Female,218,96,41.1,168,227,No,Diabetes
+1118,31,Male,186,110,39.9,268,176,Yes,Diabetes
+1119,61,Male,128,89,33.0,137,243,No,Diabetes
+1120,72,Female,122,85,22.4,18,212,Yes,No Diabetes
+1121,25,Female,77,95,20.8,163,232,Yes,No Diabetes
+1122,61,Female,81,61,22.8,160,164,Yes,No Diabetes
+1123,77,Female,114,81,38.3,140,165,Yes,Diabetes
+1124,22,Male,137,66,18.5,85,217,Yes,No Diabetes
+1125,42,Male,148,89,23.8,205,289,Yes,Diabetes
+1126,54,Female,86,67,21.5,81,168,Yes,No Diabetes
+1127,55,Female,165,80,32.4,140,131,Yes,Diabetes
+1128,75,Female,108,80,23.9,158,152,No,No Diabetes
+1129,34,Male,190,110,33.9,48,162,No,Diabetes
+1130,69,Female,197,93,29.1,179,215,No,Diabetes
+1131,66,Female,191,77,31.9,33,173,Yes,Diabetes
+1132,78,Male,185,75,27.5,171,228,No,Diabetes
+1133,57,Male,165,76,31.2,83,141,No,Diabetes
+1134,49,Female,128,97,19.0,277,279,No,No Diabetes
+1135,48,Female,189,87,27.8,269,201,No,Diabetes
+1136,45,Male,115,88,23.6,53,211,Yes,No Diabetes
+1137,39,Male,140,74,20.4,51,212,Yes,No Diabetes
+1138,55,Male,155,72,34.2,143,197,No,Diabetes
+1139,33,Male,209,76,18.2,168,192,No,Diabetes
+1140,71,Female,173,97,36.2,21,240,Yes,Diabetes
+1141,76,Female,128,74,35.4,122,241,Yes,Diabetes
+1142,54,Female,188,81,37.0,175,168,No,Diabetes
+1143,70,Female,123,88,28.8,300,127,No,No Diabetes
+1144,29,Male,148,107,18.2,196,206,Yes,Diabetes
+1145,47,Female,173,108,36.7,290,196,No,Diabetes
+1146,58,Male,215,110,18.8,86,159,No,Diabetes
+1147,57,Female,167,73,40.8,47,256,No,Diabetes
+1148,33,Female,97,81,31.7,246,283,No,Diabetes
+1149,26,Male,96,103,31.3,31,296,No,Diabetes
+1150,22,Male,120,64,39.9,212,192,Yes,Diabetes
+1151,35,Female,204,64,28.9,203,252,Yes,Diabetes
+1152,31,Female,175,85,21.8,71,153,No,Diabetes
+1153,51,Male,169,73,21.1,120,199,No,Diabetes
+1154,73,Female,110,98,31.8,173,270,Yes,Diabetes
+1155,53,Female,140,72,18.2,88,234,Yes,No Diabetes
+1156,73,Female,133,93,25.9,266,237,No,No Diabetes
+1157,57,Male,93,78,33.5,248,208,No,Diabetes
+1158,46,Male,176,75,22.3,236,237,No,Diabetes
+1159,79,Male,215,66,27.4,37,181,Yes,Diabetes
+1160,38,Female,87,104,35.4,126,246,No,Diabetes
+1161,69,Male,164,64,36.1,273,203,No,Diabetes
+1162,49,Male,134,73,30.1,251,126,Yes,Diabetes
+1163,61,Female,167,81,35.9,114,221,Yes,Diabetes
+1164,21,Female,99,105,40.0,182,291,No,Diabetes
+1165,52,Female,87,65,31.2,139,232,Yes,Diabetes
+1166,51,Female,111,70,38.1,66,165,No,Diabetes
+1167,28,Female,113,64,34.1,20,293,No,Diabetes
+1168,30,Female,161,71,23.2,32,292,Yes,Diabetes
+1169,49,Male,203,101,33.9,67,219,No,Diabetes
+1170,49,Male,71,63,36.5,118,183,No,Diabetes
+1171,79,Male,121,65,18.4,29,123,No,No Diabetes
+1172,73,Male,86,74,41.0,64,290,Yes,Diabetes
+1173,67,Male,81,86,30.3,182,202,Yes,Diabetes
+1174,60,Male,208,85,40.5,76,179,Yes,Diabetes
+1175,27,Female,152,71,18.4,176,123,No,Diabetes
+1176,34,Female,126,64,33.8,157,286,No,Diabetes
+1177,23,Male,125,86,25.2,270,146,Yes,No Diabetes
+1178,37,Male,153,100,34.7,83,205,Yes,Diabetes
+1179,61,Female,193,64,26.0,244,217,Yes,Diabetes
+1180,53,Male,129,61,32.8,78,199,Yes,Diabetes
+1181,68,Female,132,99,19.9,85,215,No,No Diabetes
+1182,39,Male,108,84,22.9,34,180,No,No Diabetes
+1183,68,Female,104,77,25.6,35,253,No,No Diabetes
+1184,62,Female,76,74,38.3,184,207,Yes,Diabetes
+1185,34,Male,133,103,34.7,128,275,No,Diabetes
+1186,54,Female,116,88,33.1,48,245,Yes,Diabetes
+1187,33,Male,106,73,21.0,103,271,Yes,No Diabetes
+1188,36,Male,179,106,29.2,99,170,Yes,Diabetes
+1189,48,Male,133,79,24.8,244,282,Yes,No Diabetes
+1190,38,Female,90,83,27.6,100,240,No,No Diabetes
+1191,48,Female,109,110,29.6,210,229,Yes,No Diabetes
+1192,69,Female,207,69,31.3,104,185,No,Diabetes
+1193,50,Female,186,78,27.0,261,138,No,Diabetes
+1194,29,Female,120,69,40.0,17,123,No,Diabetes
+1195,52,Female,176,85,41.3,206,218,No,Diabetes
+1196,40,Male,174,62,41.8,78,218,Yes,Diabetes
+1197,33,Female,135,109,39.9,193,250,No,Diabetes
+1198,61,Female,84,101,27.2,232,183,Yes,No Diabetes
+1199,51,Male,162,100,35.0,29,298,Yes,Diabetes
+1200,37,Female,107,76,23.9,97,123,Yes,No Diabetes
+1201,70,Male,168,85,34.9,56,252,Yes,Diabetes
+1202,77,Female,112,87,24.1,169,248,No,No Diabetes
+1203,58,Female,175,108,39.0,60,147,No,Diabetes
+1204,73,Male,138,107,23.0,218,298,No,No Diabetes
+1205,21,Male,195,60,20.3,228,254,No,Diabetes
+1206,62,Female,180,70,22.2,110,300,Yes,Diabetes
+1207,33,Female,116,92,40.8,245,265,Yes,Diabetes
+1208,32,Male,85,107,22.4,113,186,No,No Diabetes
+1209,49,Male,112,65,25.0,208,151,No,No Diabetes
+1210,25,Female,77,97,23.6,263,292,Yes,No Diabetes
+1211,21,Male,138,108,40.9,36,144,Yes,Diabetes
+1212,54,Male,166,98,30.5,151,244,No,Diabetes
+1213,69,Female,179,81,26.9,190,200,Yes,Diabetes
+1214,44,Female,166,99,19.4,197,204,Yes,Diabetes
+1215,21,Female,172,106,38.1,86,126,Yes,Diabetes
+1216,76,Female,133,83,28.8,258,251,No,No Diabetes
+1217,63,Male,70,100,41.0,179,124,No,Diabetes
+1218,76,Male,153,103,28.7,263,222,Yes,Diabetes
+1219,43,Female,191,102,38.6,66,218,No,Diabetes
+1220,59,Male,106,93,39.0,273,128,Yes,Diabetes
+1221,52,Male,147,103,41.9,254,163,No,Diabetes
+1222,28,Female,208,75,23.8,102,288,Yes,Diabetes
+1223,27,Female,77,70,40.3,182,218,No,Diabetes
+1224,35,Female,191,102,21.0,84,256,No,Diabetes
+1225,26,Female,127,96,36.4,48,284,No,Diabetes
+1226,45,Female,213,87,37.4,129,186,Yes,Diabetes
+1227,39,Male,98,65,26.2,111,149,No,No Diabetes
+1228,29,Female,167,96,35.7,174,135,Yes,Diabetes
+1229,75,Female,178,80,36.5,79,253,Yes,Diabetes
+1230,27,Female,72,94,38.5,176,157,No,Diabetes
+1231,74,Male,197,103,28.9,160,157,Yes,Diabetes
+1232,59,Female,149,92,41.8,78,190,No,Diabetes
+1233,61,Male,196,78,34.9,207,135,No,Diabetes
+1234,30,Male,127,104,35.7,106,244,No,Diabetes
+1235,40,Male,75,95,27.4,231,293,No,No Diabetes
+1236,43,Female,170,64,30.7,159,192,Yes,Diabetes
+1237,65,Female,94,68,25.8,42,197,No,No Diabetes
+1238,62,Male,217,68,28.6,262,194,Yes,Diabetes
+1239,34,Male,120,107,33.6,200,267,Yes,Diabetes
+1240,64,Male,166,87,34.3,101,134,Yes,Diabetes
+1241,43,Female,115,63,20.8,278,286,No,No Diabetes
+1242,58,Female,108,100,35.3,140,128,Yes,Diabetes
+1243,36,Female,195,79,34.5,103,287,No,Diabetes
+1244,70,Male,188,101,27.2,242,214,Yes,Diabetes
+1245,28,Male,91,67,29.7,275,177,Yes,No Diabetes
+1246,58,Female,140,104,35.9,107,218,No,Diabetes
+1247,62,Female,146,96,21.0,181,136,Yes,Diabetes
+1248,46,Male,170,95,37.6,286,245,Yes,Diabetes
+1249,54,Male,123,102,39.5,107,273,Yes,Diabetes
+1250,21,Female,150,67,18.9,120,287,Yes,Diabetes
+1251,26,Female,78,65,41.5,274,196,No,Diabetes
+1252,55,Male,178,102,18.0,168,131,No,Diabetes
+1253,63,Female,105,96,29.8,175,253,No,No Diabetes
+1254,59,Male,95,102,37.7,136,129,Yes,Diabetes
+1255,30,Female,125,68,32.5,125,271,No,Diabetes
+1256,38,Male,178,64,31.2,148,217,Yes,Diabetes
+1257,46,Female,91,76,34.2,88,257,Yes,Diabetes
+1258,25,Female,119,105,26.9,276,274,Yes,No Diabetes
+1259,47,Male,150,110,28.4,28,274,Yes,Diabetes
+1260,25,Female,101,94,20.6,295,224,Yes,No Diabetes
+1261,42,Male,162,81,36.7,89,177,No,Diabetes
+1262,21,Male,166,74,27.1,68,151,Yes,Diabetes
+1263,54,Female,220,91,20.3,193,299,No,Diabetes
+1264,56,Female,95,63,22.1,214,166,No,No Diabetes
+1265,72,Female,192,97,21.1,19,295,Yes,Diabetes
+1266,63,Male,106,84,31.6,151,133,No,Diabetes
+1267,66,Male,177,105,29.0,239,210,No,Diabetes
+1268,53,Female,140,87,30.5,132,198,Yes,Diabetes
+1269,40,Female,150,65,33.2,54,181,Yes,Diabetes
+1270,31,Male,91,107,24.9,267,122,No,No Diabetes
+1271,64,Male,192,91,30.4,287,298,Yes,Diabetes
+1272,46,Male,118,107,18.2,232,299,No,No Diabetes
+1273,36,Male,184,70,34.2,283,177,Yes,Diabetes
+1274,25,Female,104,92,26.5,41,228,No,No Diabetes
+1275,45,Male,165,67,26.1,142,258,Yes,Diabetes
+1276,39,Female,193,78,24.4,16,281,No,Diabetes
+1277,34,Female,201,62,40.4,264,134,No,Diabetes
+1278,21,Female,154,79,26.5,17,209,Yes,Diabetes
+1279,46,Female,72,66,28.3,116,141,Yes,No Diabetes
+1280,47,Male,194,60,21.7,143,177,No,Diabetes
+1281,46,Female,146,83,28.3,108,257,No,Diabetes
+1282,27,Female,182,70,21.4,237,121,No,Diabetes
+1283,77,Male,98,72,24.8,83,221,No,No Diabetes
+1284,68,Female,78,70,34.0,260,290,No,Diabetes
+1285,28,Female,195,95,29.9,80,203,No,Diabetes
+1286,53,Female,103,67,41.0,25,152,Yes,Diabetes
+1287,43,Male,130,63,34.3,190,229,Yes,Diabetes
+1288,48,Female,144,78,29.7,234,183,Yes,Diabetes
+1289,67,Male,133,77,36.4,149,299,Yes,Diabetes
+1290,63,Female,120,90,35.0,67,299,Yes,Diabetes
+1291,33,Male,128,67,21.2,34,190,Yes,No Diabetes
+1292,80,Male,179,61,32.8,61,133,No,Diabetes
+1293,47,Female,129,74,26.1,260,135,No,No Diabetes
+1294,62,Male,147,67,24.5,158,209,No,Diabetes
+1295,36,Female,82,71,19.0,41,289,No,No Diabetes
+1296,34,Female,190,77,39.8,66,230,Yes,Diabetes
+1297,37,Female,163,81,25.3,64,291,Yes,Diabetes
+1298,64,Male,154,83,35.8,200,270,No,Diabetes
+1299,36,Female,123,97,27.2,69,153,Yes,No Diabetes
+1300,23,Male,119,105,28.7,65,139,No,No Diabetes
+1301,40,Female,121,94,35.3,37,152,Yes,Diabetes
+1302,47,Female,213,82,39.5,244,281,Yes,Diabetes
+1303,79,Female,87,90,28.1,272,125,Yes,No Diabetes
+1304,59,Female,103,78,19.1,46,297,Yes,No Diabetes
+1305,68,Female,196,103,30.8,277,139,Yes,Diabetes
+1306,49,Female,213,109,27.4,154,172,Yes,Diabetes
+1307,21,Male,216,73,32.2,19,251,No,Diabetes
+1308,53,Female,147,74,25.1,152,261,Yes,Diabetes
+1309,31,Male,81,94,23.7,35,283,Yes,No Diabetes
+1310,77,Female,104,77,39.0,41,284,Yes,Diabetes
+1311,73,Male,206,67,18.0,192,281,No,Diabetes
+1312,41,Male,210,76,35.3,224,276,No,Diabetes
+1313,41,Male,72,82,23.3,158,165,No,No Diabetes
+1314,22,Male,167,101,24.2,297,172,No,Diabetes
+1315,35,Female,138,73,32.0,217,159,No,Diabetes
+1316,35,Female,164,69,39.7,62,246,Yes,Diabetes
+1317,50,Male,115,72,31.7,107,285,No,Diabetes
+1318,22,Female,111,71,37.6,111,137,Yes,Diabetes
+1319,25,Female,132,89,39.8,221,145,Yes,Diabetes
+1320,67,Male,95,84,27.2,71,123,Yes,No Diabetes
+1321,29,Male,91,77,21.4,21,122,Yes,No Diabetes
+1322,55,Female,91,72,21.3,242,161,No,No Diabetes
+1323,42,Female,109,75,19.3,151,280,Yes,No Diabetes
+1324,22,Male,96,94,25.1,276,226,Yes,No Diabetes
+1325,21,Male,76,74,28.3,90,210,No,No Diabetes
+1326,35,Female,98,91,22.1,71,177,Yes,No Diabetes
+1327,39,Female,89,99,26.0,199,141,Yes,No Diabetes
+1328,59,Male,115,87,30.7,107,293,No,Diabetes
+1329,30,Female,143,82,39.0,153,247,No,Diabetes
+1330,80,Female,89,110,18.1,91,287,Yes,No Diabetes
+1331,41,Male,169,88,35.3,259,137,Yes,Diabetes
+1332,57,Female,141,69,20.2,80,166,No,Diabetes
+1333,43,Female,196,87,29.6,226,274,No,Diabetes
+1334,29,Male,168,86,31.2,290,256,No,Diabetes
+1335,55,Male,168,65,31.9,230,254,Yes,Diabetes
+1336,65,Male,130,83,18.1,23,212,No,No Diabetes
+1337,29,Male,85,82,26.7,86,195,No,No Diabetes
+1338,30,Female,132,73,37.9,43,155,Yes,Diabetes
+1339,65,Male,166,106,18.6,232,215,Yes,Diabetes
+1340,65,Male,218,64,29.4,95,127,Yes,Diabetes
+1341,44,Male,90,75,19.8,228,158,Yes,No Diabetes
+1342,51,Male,205,104,40.8,255,225,No,Diabetes
+1343,49,Male,143,67,21.7,31,274,Yes,Diabetes
+1344,53,Male,72,85,38.0,247,261,No,Diabetes
+1345,79,Female,128,87,40.4,154,143,No,Diabetes
+1346,29,Male,172,99,19.3,215,167,Yes,Diabetes
+1347,73,Female,192,80,33.7,222,217,Yes,Diabetes
+1348,24,Female,178,72,24.5,68,139,No,Diabetes
+1349,59,Female,77,75,24.8,292,147,Yes,No Diabetes
+1350,34,Male,149,72,31.2,31,181,No,Diabetes
+1351,26,Male,214,110,29.6,39,200,Yes,Diabetes
+1352,40,Male,161,108,24.8,218,248,Yes,Diabetes
+1353,41,Female,161,68,34.9,64,204,No,Diabetes
+1354,78,Male,198,109,21.6,210,242,Yes,Diabetes
+1355,39,Male,108,103,29.1,62,179,Yes,No Diabetes
+1356,72,Male,111,92,30.4,282,207,No,Diabetes
+1357,71,Male,156,78,26.6,235,130,No,Diabetes
+1358,36,Male,89,69,31.6,269,144,Yes,Diabetes
+1359,30,Female,210,110,39.5,270,144,No,Diabetes
+1360,41,Male,145,70,19.6,201,210,Yes,Diabetes
+1361,25,Male,187,76,41.7,146,233,Yes,Diabetes
+1362,28,Female,80,83,38.6,220,224,Yes,Diabetes
+1363,49,Female,201,99,40.8,206,141,No,Diabetes
+1364,53,Female,137,103,19.0,44,182,Yes,No Diabetes
+1365,30,Male,144,84,21.8,219,138,Yes,Diabetes
+1366,45,Female,93,82,29.2,288,239,Yes,No Diabetes
+1367,26,Male,97,85,36.4,117,222,No,Diabetes
+1368,25,Female,157,98,29.7,258,149,No,Diabetes
+1369,50,Male,209,69,40.8,89,283,Yes,Diabetes
+1370,41,Male,167,63,40.5,200,230,No,Diabetes
+1371,34,Male,124,61,40.9,231,189,No,Diabetes
+1372,61,Male,91,69,19.7,222,140,No,No Diabetes
+1373,76,Female,177,93,23.1,147,167,Yes,Diabetes
+1374,26,Female,157,108,25.1,116,209,No,Diabetes
+1375,51,Female,207,104,36.8,238,210,No,Diabetes
+1376,73,Male,213,110,39.5,116,139,Yes,Diabetes
+1377,41,Female,73,69,39.5,90,247,No,Diabetes
+1378,28,Female,137,93,35.3,245,152,No,Diabetes
+1379,61,Male,79,73,35.9,111,227,Yes,Diabetes
+1380,59,Female,125,82,23.0,112,293,Yes,No Diabetes
+1381,44,Female,74,79,39.5,272,151,No,Diabetes
+1382,62,Female,175,86,26.4,292,229,No,Diabetes
+1383,28,Male,187,87,27.0,298,272,Yes,Diabetes
+1384,55,Female,167,78,38.3,238,282,No,Diabetes
+1385,65,Male,92,66,20.2,23,277,No,No Diabetes
+1386,27,Female,209,66,33.2,272,268,Yes,Diabetes
+1387,63,Female,177,73,23.3,247,261,No,Diabetes
+1388,28,Male,190,67,26.4,252,225,No,Diabetes
+1389,21,Female,127,92,24.8,150,198,No,No Diabetes
+1390,64,Male,71,86,18.8,28,159,No,No Diabetes
+1391,74,Female,155,70,41.0,235,181,No,Diabetes
+1392,33,Female,83,96,28.3,214,164,No,No Diabetes
+1393,78,Female,202,70,28.5,65,152,Yes,Diabetes
+1394,61,Female,136,95,21.8,180,172,Yes,No Diabetes
+1395,26,Male,181,60,33.1,93,127,Yes,Diabetes
+1396,57,Female,76,107,35.6,247,282,No,Diabetes
+1397,32,Male,126,79,22.7,140,216,No,No Diabetes
+1398,63,Male,140,65,40.4,26,283,Yes,Diabetes
+1399,28,Female,101,66,21.4,149,166,Yes,No Diabetes
+1400,25,Female,162,73,27.4,266,125,No,Diabetes
+1401,25,Female,89,73,34.5,207,200,No,Diabetes
+1402,72,Male,116,79,18.2,106,288,Yes,No Diabetes
+1403,28,Female,158,90,41.9,294,121,Yes,Diabetes
+1404,54,Female,101,72,32.5,289,125,Yes,Diabetes
+1405,34,Female,99,73,18.7,85,176,Yes,No Diabetes
+1406,67,Male,138,77,29.6,62,209,No,No Diabetes
+1407,50,Female,181,92,40.7,113,184,Yes,Diabetes
+1408,33,Female,170,66,32.0,174,162,Yes,Diabetes
+1409,67,Female,180,88,28.2,154,201,Yes,Diabetes
+1410,59,Female,179,72,31.6,206,281,Yes,Diabetes
+1411,49,Male,78,92,24.1,224,195,No,No Diabetes
+1412,46,Male,99,71,37.4,234,167,No,Diabetes
+1413,36,Male,125,102,26.9,89,200,Yes,No Diabetes
+1414,21,Female,72,105,25.9,253,265,No,No Diabetes
+1415,78,Male,213,64,27.3,123,254,Yes,Diabetes
+1416,27,Female,89,96,39.4,230,294,No,Diabetes
+1417,41,Female,120,72,19.2,267,247,Yes,No Diabetes
+1418,38,Female,100,67,28.9,182,271,No,No Diabetes
+1419,36,Male,142,61,33.4,17,238,No,Diabetes
+1420,29,Female,79,94,40.0,35,206,Yes,Diabetes
+1421,25,Female,94,86,35.4,155,201,No,Diabetes
+1422,46,Male,212,109,25.5,39,220,No,Diabetes
+1423,65,Female,196,101,41.2,77,215,Yes,Diabetes
+1424,22,Male,82,60,21.3,180,296,No,No Diabetes
+1425,35,Male,92,72,35.4,203,257,Yes,Diabetes
+1426,80,Male,136,110,19.0,39,197,Yes,No Diabetes
+1427,37,Female,167,77,34.8,85,269,No,Diabetes
+1428,28,Male,151,69,36.1,226,283,No,Diabetes
+1429,63,Male,203,93,23.8,259,289,No,Diabetes
+1430,38,Female,193,74,20.2,166,141,No,Diabetes
+1431,56,Male,122,104,19.9,268,135,Yes,No Diabetes
+1432,21,Male,189,84,22.5,68,207,Yes,Diabetes
+1433,73,Female,149,105,28.9,93,249,Yes,Diabetes
+1434,79,Male,126,83,27.3,246,278,Yes,No Diabetes
+1435,70,Female,118,64,24.7,99,295,No,No Diabetes
+1436,76,Male,107,89,39.0,71,181,Yes,Diabetes
+1437,78,Female,117,77,18.7,286,235,No,No Diabetes
+1438,37,Male,210,65,26.5,123,158,No,Diabetes
+1439,53,Female,200,81,19.3,154,214,Yes,Diabetes
+1440,24,Female,178,72,25.1,221,165,No,Diabetes
+1441,54,Female,202,87,20.6,40,285,Yes,Diabetes
+1442,28,Male,99,63,39.5,151,181,Yes,Diabetes
+1443,55,Male,140,74,39.2,222,220,No,Diabetes
+1444,27,Male,138,91,22.9,119,208,No,No Diabetes
+1445,66,Female,70,66,22.4,259,198,Yes,No Diabetes
+1446,31,Female,87,70,22.5,248,156,Yes,No Diabetes
+1447,63,Female,179,81,18.5,150,139,Yes,Diabetes
+1448,64,Male,160,90,32.0,265,183,No,Diabetes
+1449,28,Male,74,96,34.3,163,178,Yes,Diabetes
+1450,69,Male,94,66,25.3,186,235,No,No Diabetes
+1451,68,Female,209,76,33.9,144,213,No,Diabetes
+1452,21,Female,147,105,26.0,280,289,No,Diabetes
+1453,28,Female,202,106,33.4,90,225,Yes,Diabetes
+1454,63,Male,161,91,18.7,235,212,Yes,Diabetes
+1455,68,Male,119,84,33.3,155,280,No,Diabetes
+1456,77,Male,137,103,26.4,184,220,No,No Diabetes
+1457,38,Female,118,62,31.9,190,276,Yes,Diabetes
+1458,48,Female,215,110,37.0,162,148,Yes,Diabetes
+1459,52,Male,189,103,21.6,163,279,Yes,Diabetes
+1460,40,Female,143,64,37.2,22,236,Yes,Diabetes
+1461,34,Female,101,63,29.7,17,230,No,No Diabetes
+1462,63,Male,82,76,21.3,160,248,Yes,No Diabetes
+1463,26,Female,106,106,22.7,56,194,Yes,No Diabetes
+1464,23,Female,160,75,37.5,212,228,No,Diabetes
+1465,78,Male,136,79,32.3,103,264,No,Diabetes
+1466,64,Female,218,68,34.4,117,184,Yes,Diabetes
+1467,47,Male,147,79,20.1,251,259,Yes,Diabetes
+1468,45,Female,94,68,30.6,175,248,No,Diabetes
+1469,50,Female,179,89,28.1,225,238,Yes,Diabetes
+1470,79,Male,177,65,36.1,169,182,No,Diabetes
+1471,29,Female,83,108,38.3,79,223,Yes,Diabetes
+1472,50,Female,83,65,19.3,69,205,Yes,No Diabetes
+1473,73,Female,214,90,34.6,46,151,Yes,Diabetes
+1474,65,Male,202,69,31.5,268,154,Yes,Diabetes
+1475,78,Male,147,100,25.5,18,244,Yes,Diabetes
+1476,28,Male,70,69,32.5,76,253,Yes,Diabetes
+1477,36,Male,96,90,18.6,273,233,No,No Diabetes
+1478,24,Male,146,85,29.6,109,180,No,Diabetes
+1479,73,Female,101,87,21.5,26,167,Yes,No Diabetes
+1480,73,Male,113,92,35.8,294,171,No,Diabetes
+1481,51,Female,144,102,20.4,267,214,No,Diabetes
+1482,46,Female,97,89,28.0,232,157,Yes,No Diabetes
+1483,39,Female,100,96,27.3,170,128,No,No Diabetes
+1484,23,Female,105,89,39.2,249,190,Yes,Diabetes
+1485,31,Female,198,92,23.1,283,219,Yes,Diabetes
+1486,32,Male,160,101,35.3,188,237,Yes,Diabetes
+1487,38,Female,170,64,40.0,262,216,No,Diabetes
+1488,59,Male,217,105,40.3,284,186,Yes,Diabetes
+1489,65,Female,220,97,26.4,221,137,Yes,Diabetes
+1490,22,Male,129,66,34.0,270,293,No,Diabetes
+1491,41,Male,130,66,39.6,104,218,No,Diabetes
+1492,80,Male,85,99,24.0,34,138,No,No Diabetes
+1493,69,Female,77,71,25.7,245,216,Yes,No Diabetes
+1494,61,Male,120,76,29.8,161,177,Yes,No Diabetes
+1495,68,Male,181,93,37.4,113,142,Yes,Diabetes
+1496,61,Male,122,62,37.4,17,212,No,Diabetes
+1497,57,Male,157,71,34.4,285,247,Yes,Diabetes
+1498,74,Male,216,90,30.0,197,278,Yes,Diabetes
+1499,72,Male,182,87,33.0,51,265,Yes,Diabetes
+1500,29,Female,95,67,30.0,41,273,No,No Diabetes
+1501,22,Male,144,76,27.4,198,137,Yes,Diabetes
+1502,39,Male,206,96,23.8,280,276,No,Diabetes
+1503,46,Male,209,104,39.4,256,187,Yes,Diabetes
+1504,23,Female,177,76,22.8,45,155,Yes,Diabetes
+1505,56,Female,85,75,29.8,33,208,Yes,No Diabetes
+1506,47,Male,211,90,40.7,153,130,Yes,Diabetes
+1507,23,Female,199,74,33.6,235,242,No,Diabetes
+1508,71,Male,75,63,18.6,115,256,No,No Diabetes
+1509,64,Male,211,90,19.3,208,298,Yes,Diabetes
+1510,48,Female,210,68,20.8,75,277,No,Diabetes
+1511,43,Male,157,87,40.0,136,179,Yes,Diabetes
+1512,58,Male,128,86,35.9,289,265,Yes,Diabetes
+1513,72,Male,133,63,19.8,79,232,Yes,No Diabetes
+1514,39,Male,150,82,32.5,140,194,Yes,Diabetes
+1515,59,Female,192,102,20.9,54,139,No,Diabetes
+1516,55,Male,196,105,35.6,197,176,No,Diabetes
+1517,66,Female,163,109,31.2,140,254,No,Diabetes
+1518,41,Male,83,82,39.6,263,191,Yes,Diabetes
+1519,34,Male,203,74,25.3,298,173,Yes,Diabetes
+1520,44,Male,79,75,34.8,247,149,Yes,Diabetes
+1521,52,Male,139,77,32.1,168,141,Yes,Diabetes
+1522,38,Female,196,61,38.7,211,233,Yes,Diabetes
+1523,35,Male,167,71,33.8,287,133,No,Diabetes
+1524,23,Female,76,98,36.1,187,187,Yes,Diabetes
+1525,69,Male,157,106,37.9,237,229,Yes,Diabetes
+1526,72,Male,211,84,40.9,162,256,No,Diabetes
+1527,48,Female,111,84,29.2,136,153,Yes,No Diabetes
+1528,38,Female,91,75,36.5,166,206,No,Diabetes
+1529,23,Female,162,77,33.8,21,151,No,Diabetes
+1530,57,Female,137,71,28.7,23,232,Yes,No Diabetes
+1531,50,Male,161,90,33.3,299,175,No,Diabetes
+1532,24,Male,140,99,31.2,47,232,Yes,Diabetes
+1533,37,Female,136,91,21.1,104,157,Yes,No Diabetes
+1534,35,Male,79,71,34.4,240,268,No,Diabetes
+1535,23,Male,85,105,41.8,146,124,No,Diabetes
+1536,55,Male,130,82,20.6,274,233,Yes,No Diabetes
+1537,53,Male,130,73,25.8,205,294,No,No Diabetes
+1538,25,Female,142,69,18.6,199,205,No,Diabetes
+1539,78,Female,190,78,32.9,97,214,Yes,Diabetes
+1540,39,Male,76,66,32.6,175,250,No,Diabetes
+1541,34,Female,219,62,33.8,91,217,Yes,Diabetes
+1542,25,Male,214,92,41.9,295,227,Yes,Diabetes
+1543,75,Male,190,102,30.6,240,201,No,Diabetes
+1544,33,Female,132,81,23.8,200,179,No,No Diabetes
+1545,41,Male,131,88,35.6,224,212,Yes,Diabetes
+1546,43,Male,162,101,29.6,132,234,No,Diabetes
+1547,35,Male,207,75,36.6,223,292,Yes,Diabetes
+1548,59,Female,143,81,25.5,56,224,No,Diabetes
+1549,53,Male,217,91,33.2,116,166,No,Diabetes
+1550,21,Male,100,86,24.3,298,240,Yes,No Diabetes
+1551,29,Male,180,61,34.6,52,153,No,Diabetes
+1552,78,Female,160,68,27.7,300,181,No,Diabetes
+1553,28,Female,156,97,32.6,70,131,Yes,Diabetes
+1554,68,Female,184,86,33.1,238,194,No,Diabetes
+1555,65,Male,116,106,36.4,275,141,Yes,Diabetes
+1556,78,Male,164,103,33.6,209,202,No,Diabetes
+1557,32,Female,94,74,25.1,189,132,No,No Diabetes
+1558,39,Female,168,80,36.2,88,130,Yes,Diabetes
+1559,48,Female,217,99,25.5,192,192,Yes,Diabetes
+1560,28,Female,140,91,28.5,101,193,No,No Diabetes
+1561,59,Male,129,102,24.7,64,172,Yes,No Diabetes
+1562,22,Male,208,94,37.2,18,245,Yes,Diabetes
+1563,44,Male,142,96,28.2,242,253,Yes,Diabetes
+1564,74,Female,145,67,35.2,76,233,No,Diabetes
+1565,52,Female,92,68,41.8,74,210,Yes,Diabetes
+1566,68,Male,89,80,21.8,186,190,No,No Diabetes
+1567,61,Male,150,62,28.4,281,201,Yes,Diabetes
+1568,74,Male,72,75,21.3,207,176,Yes,No Diabetes
+1569,37,Female,108,91,37.5,269,192,Yes,Diabetes
+1570,33,Male,202,106,36.0,16,231,Yes,Diabetes
+1571,52,Male,115,62,28.0,149,277,No,No Diabetes
+1572,61,Male,159,90,30.7,107,196,Yes,Diabetes
+1573,77,Female,194,91,37.1,215,273,No,Diabetes
+1574,55,Female,145,66,23.3,162,227,No,Diabetes
+1575,41,Male,178,67,22.2,178,289,Yes,Diabetes
+1576,43,Female,102,109,39.2,265,273,No,Diabetes
+1577,64,Male,77,78,24.4,125,224,Yes,No Diabetes
+1578,56,Female,136,103,25.6,215,233,No,No Diabetes
+1579,46,Female,83,77,29.7,127,206,Yes,No Diabetes
+1580,40,Female,174,74,31.7,100,257,Yes,Diabetes
+1581,70,Male,154,68,32.5,25,125,No,Diabetes
+1582,26,Female,160,109,36.4,47,287,Yes,Diabetes
+1583,54,Male,162,94,22.8,95,257,No,Diabetes
+1584,76,Male,144,70,39.9,184,225,Yes,Diabetes
+1585,56,Male,73,62,38.3,284,146,No,Diabetes
+1586,71,Female,80,70,24.8,27,178,Yes,No Diabetes
+1587,23,Female,101,110,27.1,220,153,No,No Diabetes
+1588,76,Male,89,64,30.1,227,125,Yes,Diabetes
+1589,68,Male,94,107,32.1,215,169,No,Diabetes
+1590,71,Female,178,92,35.8,169,190,No,Diabetes
+1591,33,Male,137,101,31.8,207,194,No,Diabetes
+1592,26,Male,174,95,24.7,160,299,Yes,Diabetes
+1593,45,Male,197,106,27.4,205,259,Yes,Diabetes
+1594,49,Male,217,61,27.5,133,234,No,Diabetes
+1595,51,Male,149,81,21.5,57,144,Yes,Diabetes
+1596,34,Female,133,65,21.4,257,253,Yes,No Diabetes
+1597,24,Female,134,86,25.5,187,158,Yes,No Diabetes
+1598,41,Female,71,77,34.6,265,259,No,Diabetes
+1599,41,Male,152,89,35.0,278,262,Yes,Diabetes
+1600,79,Male,178,104,19.9,80,123,Yes,Diabetes
+1601,54,Male,112,72,28.5,73,129,No,No Diabetes
+1602,52,Male,204,91,21.4,295,227,No,Diabetes
+1603,21,Female,100,87,41.9,153,253,No,Diabetes
+1604,60,Female,214,101,22.0,163,253,Yes,Diabetes
+1605,72,Female,202,98,24.0,251,173,No,Diabetes
+1606,80,Male,112,93,35.2,257,122,No,Diabetes
+1607,47,Male,108,90,19.6,17,199,Yes,No Diabetes
+1608,33,Male,207,89,25.9,46,279,No,Diabetes
+1609,59,Male,87,82,33.3,130,208,Yes,Diabetes
+1610,80,Male,140,78,37.7,233,269,No,Diabetes
+1611,44,Female,135,95,31.0,118,139,Yes,Diabetes
+1612,27,Male,141,71,24.3,67,152,No,Diabetes
+1613,42,Female,191,73,22.0,133,175,Yes,Diabetes
+1614,80,Male,106,70,29.4,15,202,Yes,No Diabetes
+1615,78,Male,105,92,37.4,232,290,No,Diabetes
+1616,41,Female,198,108,20.8,216,216,No,Diabetes
+1617,66,Female,160,79,38.1,177,255,Yes,Diabetes
+1618,77,Male,112,100,38.0,88,231,No,Diabetes
+1619,52,Female,100,95,39.6,193,165,Yes,Diabetes
+1620,76,Female,189,109,34.1,232,174,Yes,Diabetes
+1621,45,Female,115,107,41.9,115,233,No,Diabetes
+1622,54,Male,71,97,25.4,63,214,No,No Diabetes
+1623,53,Male,139,62,33.5,260,221,Yes,Diabetes
+1624,65,Female,140,100,19.4,30,240,No,No Diabetes
+1625,52,Male,191,107,39.0,294,146,Yes,Diabetes
+1626,44,Male,109,105,35.7,82,141,No,Diabetes
+1627,74,Male,84,88,33.3,46,200,Yes,Diabetes
+1628,75,Female,119,101,32.7,23,205,No,Diabetes
+1629,78,Male,220,106,40.7,279,123,No,Diabetes
+1630,47,Male,86,72,37.8,271,157,No,Diabetes
+1631,26,Male,183,62,24.6,116,296,No,Diabetes
+1632,32,Male,149,77,31.5,75,207,No,Diabetes
+1633,57,Male,214,89,20.1,61,166,Yes,Diabetes
+1634,32,Female,75,109,22.1,20,175,No,No Diabetes
+1635,50,Male,133,79,38.1,112,153,No,Diabetes
+1636,24,Female,143,71,24.7,176,225,Yes,Diabetes
+1637,74,Male,139,72,22.3,166,186,No,No Diabetes
+1638,37,Male,195,82,31.9,193,284,No,Diabetes
+1639,74,Male,79,97,27.3,290,265,Yes,No Diabetes
+1640,65,Female,158,101,37.5,162,173,No,Diabetes
+1641,65,Female,93,92,36.6,147,175,No,Diabetes
+1642,37,Male,99,93,33.8,110,241,Yes,Diabetes
+1643,50,Female,165,96,27.1,32,202,Yes,Diabetes
+1644,61,Female,72,70,28.1,186,206,Yes,No Diabetes
+1645,32,Female,148,70,29.2,110,125,No,Diabetes
+1646,72,Female,217,104,28.4,219,241,Yes,Diabetes
+1647,37,Female,156,90,34.3,168,130,Yes,Diabetes
+1648,69,Male,177,87,36.6,220,271,Yes,Diabetes
+1649,31,Male,146,98,41.2,283,170,Yes,Diabetes
+1650,29,Female,83,65,25.4,87,208,No,No Diabetes
+1651,46,Male,187,60,33.8,117,164,No,Diabetes
+1652,40,Male,117,75,38.6,238,143,Yes,Diabetes
+1653,30,Female,71,90,21.8,66,240,No,No Diabetes
+1654,65,Male,190,102,27.0,252,300,Yes,Diabetes
+1655,69,Male,169,68,25.6,83,222,No,Diabetes
+1656,78,Female,178,98,27.5,51,208,No,Diabetes
+1657,63,Male,126,98,22.3,135,214,No,No Diabetes
+1658,42,Male,171,64,33.5,85,247,Yes,Diabetes
+1659,23,Male,147,87,20.2,211,287,Yes,Diabetes
+1660,48,Male,142,79,27.3,261,128,No,Diabetes
+1661,47,Male,111,85,34.4,69,239,Yes,Diabetes
+1662,43,Male,173,60,21.9,80,267,No,Diabetes
+1663,64,Female,72,91,33.7,220,228,Yes,Diabetes
+1664,40,Female,136,107,33.2,245,248,No,Diabetes
+1665,70,Female,155,94,41.3,72,165,No,Diabetes
+1666,55,Female,90,69,18.2,147,170,No,No Diabetes
+1667,48,Male,188,78,19.0,265,237,No,Diabetes
+1668,24,Female,134,87,26.1,166,126,No,No Diabetes
+1669,32,Female,161,86,18.4,181,196,Yes,Diabetes
+1670,59,Male,161,106,18.9,217,183,Yes,Diabetes
+1671,26,Male,102,106,21.5,267,230,No,No Diabetes
+1672,43,Female,132,106,37.7,249,130,Yes,Diabetes
+1673,41,Female,79,69,32.6,66,217,Yes,Diabetes
+1674,42,Female,178,85,18.5,146,287,Yes,Diabetes
+1675,74,Female,99,110,22.6,148,197,Yes,No Diabetes
+1676,65,Male,165,96,29.4,238,190,Yes,Diabetes
+1677,38,Male,172,71,34.3,154,121,No,Diabetes
+1678,34,Male,176,102,21.1,151,238,No,Diabetes
+1679,27,Male,127,61,35.0,128,136,No,Diabetes
+1680,67,Female,220,86,33.2,183,258,No,Diabetes
+1681,51,Male,157,81,25.7,242,158,No,Diabetes
+1682,75,Female,123,94,34.7,214,185,No,Diabetes
+1683,23,Male,194,95,41.6,57,173,No,Diabetes
+1684,40,Female,150,88,34.2,30,159,Yes,Diabetes
+1685,60,Female,214,87,28.0,26,192,No,Diabetes
+1686,36,Female,207,68,27.1,78,144,No,Diabetes
+1687,34,Male,98,96,24.9,96,222,No,No Diabetes
+1688,43,Male,177,98,24.7,200,281,Yes,Diabetes
+1689,63,Female,198,94,30.8,130,223,No,Diabetes
+1690,69,Female,143,88,21.8,105,222,No,Diabetes
+1691,21,Female,188,101,22.1,65,218,No,Diabetes
+1692,47,Female,118,100,18.7,129,155,Yes,No Diabetes
+1693,59,Female,75,80,32.6,100,265,No,Diabetes
+1694,64,Male,164,61,35.8,214,261,Yes,Diabetes
+1695,75,Male,187,83,35.4,137,164,No,Diabetes
+1696,80,Male,152,68,25.0,30,172,No,Diabetes
+1697,50,Male,183,75,37.1,251,248,Yes,Diabetes
+1698,72,Female,110,75,29.1,50,121,Yes,No Diabetes
+1699,64,Female,203,90,38.7,51,226,No,Diabetes
+1700,77,Male,206,105,18.6,261,135,No,Diabetes
+1701,72,Female,80,83,27.6,276,281,No,No Diabetes
+1702,48,Male,96,69,38.3,72,163,No,Diabetes
+1703,47,Female,106,75,37.1,122,187,Yes,Diabetes
+1704,42,Male,187,105,29.8,140,186,No,Diabetes
+1705,39,Female,154,110,28.8,147,265,No,Diabetes
+1706,59,Male,105,69,30.5,28,176,No,Diabetes
+1707,57,Female,144,79,40.7,96,265,No,Diabetes
+1708,51,Female,145,69,35.8,80,157,No,Diabetes
+1709,75,Female,135,100,23.5,123,269,No,No Diabetes
+1710,30,Male,136,83,35.3,279,223,No,Diabetes
+1711,60,Male,158,101,21.7,271,200,No,Diabetes
+1712,45,Female,113,93,29.6,262,217,Yes,No Diabetes
+1713,63,Male,157,74,25.4,129,158,No,Diabetes
+1714,59,Male,120,82,30.0,21,254,Yes,No Diabetes
+1715,68,Male,163,102,18.8,65,204,Yes,Diabetes
+1716,38,Male,84,88,31.6,141,182,No,Diabetes
+1717,72,Male,132,74,34.6,248,165,Yes,Diabetes
+1718,59,Female,211,77,20.2,112,136,Yes,Diabetes
+1719,54,Female,85,73,23.5,259,238,Yes,No Diabetes
+1720,55,Male,151,110,33.2,115,242,Yes,Diabetes
+1721,49,Male,191,72,20.4,125,273,No,Diabetes
+1722,40,Male,218,87,38.7,72,233,Yes,Diabetes
+1723,58,Female,70,76,36.1,153,246,Yes,Diabetes
+1724,42,Female,201,78,40.8,168,187,Yes,Diabetes
+1725,42,Female,213,92,25.4,240,148,Yes,Diabetes
+1726,52,Male,151,92,29.3,98,165,Yes,Diabetes
+1727,69,Female,147,66,40.2,241,207,Yes,Diabetes
+1728,33,Male,129,73,25.4,171,201,No,No Diabetes
+1729,27,Female,123,96,34.1,180,160,Yes,Diabetes
+1730,70,Female,113,70,32.6,95,203,No,Diabetes
+1731,62,Female,138,74,40.4,256,197,No,Diabetes
+1732,30,Female,155,106,26.5,176,235,No,Diabetes
+1733,48,Female,176,60,36.3,221,134,No,Diabetes
+1734,43,Male,186,109,24.6,118,173,No,Diabetes
+1735,39,Female,76,80,28.3,210,203,Yes,No Diabetes
+1736,72,Male,198,88,38.6,69,139,Yes,Diabetes
+1737,31,Female,192,106,32.2,38,288,No,Diabetes
+1738,65,Female,133,77,41.7,207,135,Yes,Diabetes
+1739,24,Female,140,94,26.9,160,148,No,No Diabetes
+1740,29,Male,153,109,35.6,92,158,No,Diabetes
+1741,57,Male,213,65,28.5,182,266,No,Diabetes
+1742,56,Female,75,68,36.5,49,299,No,Diabetes
+1743,75,Female,184,107,39.2,109,202,No,Diabetes
+1744,35,Female,162,81,22.8,147,185,Yes,Diabetes
+1745,29,Male,175,87,27.5,264,132,Yes,Diabetes
+1746,79,Female,74,96,28.5,31,249,No,No Diabetes
+1747,71,Female,142,96,26.0,49,139,Yes,Diabetes
+1748,56,Male,206,70,37.2,59,266,No,Diabetes
+1749,60,Male,88,109,34.4,156,239,No,Diabetes
+1750,77,Male,154,64,22.4,188,236,No,Diabetes
+1751,77,Male,172,96,25.1,214,124,Yes,Diabetes
+1752,35,Female,179,69,24.2,129,269,No,Diabetes
+1753,55,Female,121,109,37.7,196,267,Yes,Diabetes
+1754,33,Male,122,79,22.4,28,256,Yes,No Diabetes
+1755,70,Male,208,82,40.9,182,200,Yes,Diabetes
+1756,63,Male,121,79,21.9,153,179,Yes,No Diabetes
+1757,70,Female,76,68,39.1,240,151,No,Diabetes
+1758,22,Female,123,84,19.2,239,222,Yes,No Diabetes
+1759,34,Female,101,65,41.3,274,268,Yes,Diabetes
+1760,31,Male,100,91,35.8,198,201,No,Diabetes
+1761,33,Male,93,92,26.6,145,250,Yes,No Diabetes
+1762,50,Male,71,84,37.3,219,145,No,Diabetes
+1763,44,Female,86,87,40.7,168,178,Yes,Diabetes
+1764,62,Female,190,61,40.8,155,285,No,Diabetes
+1765,23,Male,133,71,31.5,80,252,Yes,Diabetes
+1766,29,Female,79,63,32.3,122,289,No,Diabetes
+1767,44,Female,110,86,22.1,280,158,Yes,No Diabetes
+1768,44,Male,111,61,29.9,171,223,No,No Diabetes
+1769,79,Female,152,61,36.8,184,127,No,Diabetes
+1770,23,Male,174,62,30.9,283,163,Yes,Diabetes
+1771,27,Male,159,74,20.2,48,148,No,Diabetes
+1772,50,Female,207,88,21.2,15,199,No,Diabetes
+1773,51,Female,102,80,33.8,202,277,Yes,Diabetes
+1774,51,Female,216,72,21.0,278,153,Yes,Diabetes
+1775,35,Male,94,105,27.7,68,183,Yes,No Diabetes
+1776,37,Male,147,81,35.1,251,291,No,Diabetes
+1777,69,Male,153,87,27.0,89,268,Yes,Diabetes
+1778,68,Female,82,110,22.7,108,123,Yes,No Diabetes
+1779,61,Male,130,70,27.5,20,266,No,No Diabetes
+1780,51,Female,118,100,38.9,222,235,Yes,Diabetes
+1781,50,Female,209,88,20.8,158,287,No,Diabetes
+1782,42,Male,135,81,37.4,264,260,No,Diabetes
+1783,63,Male,157,108,30.5,47,213,No,Diabetes
+1784,62,Male,209,68,20.3,249,148,Yes,Diabetes
+1785,56,Female,102,82,25.4,238,261,Yes,No Diabetes
+1786,76,Male,171,92,22.7,128,124,Yes,Diabetes
+1787,67,Female,204,98,36.7,286,254,Yes,Diabetes
+1788,72,Female,208,74,34.6,286,162,No,Diabetes
+1789,31,Male,112,100,33.2,130,158,No,Diabetes
+1790,75,Male,141,63,41.0,220,195,No,Diabetes
+1791,78,Female,191,89,25.7,168,120,Yes,Diabetes
+1792,37,Female,123,106,32.7,49,135,No,Diabetes
+1793,29,Male,193,70,36.4,139,220,Yes,Diabetes
+1794,62,Female,170,97,22.6,194,138,Yes,Diabetes
+1795,38,Male,172,67,35.4,92,172,No,Diabetes
+1796,30,Female,153,60,33.3,281,199,Yes,Diabetes
+1797,70,Female,129,102,28.5,78,258,No,No Diabetes
+1798,30,Male,157,77,40.8,35,217,No,Diabetes
+1799,28,Female,179,97,22.0,264,194,Yes,Diabetes
+1800,54,Male,92,106,32.5,200,181,No,Diabetes
+1801,74,Female,177,63,33.3,158,190,No,Diabetes
+1802,61,Female,177,102,38.1,197,141,Yes,Diabetes
+1803,27,Female,132,97,29.9,237,290,No,No Diabetes
+1804,27,Female,213,98,38.1,207,275,No,Diabetes
+1805,23,Male,95,96,20.3,137,212,No,No Diabetes
+1806,73,Female,80,82,33.5,240,237,Yes,Diabetes
+1807,46,Female,76,73,31.6,27,281,No,Diabetes
+1808,27,Female,175,61,35.5,144,211,No,Diabetes
+1809,43,Male,140,88,36.8,181,237,No,Diabetes
+1810,70,Male,123,95,36.5,295,285,No,Diabetes
+1811,68,Female,159,109,37.6,270,142,No,Diabetes
+1812,43,Male,151,79,20.4,61,283,No,Diabetes
+1813,41,Female,117,108,27.2,150,244,No,No Diabetes
+1814,42,Female,162,108,21.8,101,202,Yes,Diabetes
+1815,28,Male,218,79,39.8,166,263,Yes,Diabetes
+1816,46,Male,120,65,20.2,222,187,Yes,No Diabetes
+1817,66,Female,206,82,27.5,212,146,No,Diabetes
+1818,60,Male,152,74,28.6,35,182,Yes,Diabetes
+1819,63,Female,76,91,23.4,127,182,Yes,No Diabetes
+1820,49,Male,107,60,25.1,25,276,No,No Diabetes
+1821,74,Female,176,95,31.2,113,225,Yes,Diabetes
+1822,75,Female,217,84,35.9,201,187,No,Diabetes
+1823,44,Female,130,80,31.0,54,297,Yes,Diabetes
+1824,41,Male,207,97,21.1,274,241,No,Diabetes
+1825,27,Male,159,105,34.9,298,177,No,Diabetes
+1826,38,Male,187,99,28.5,238,136,Yes,Diabetes
+1827,22,Female,213,101,19.4,192,242,Yes,Diabetes
+1828,25,Female,86,106,24.6,144,127,No,No Diabetes
+1829,48,Male,171,73,33.9,173,257,No,Diabetes
+1830,42,Male,215,92,40.7,88,258,No,Diabetes
+1831,76,Male,83,105,36.1,76,138,Yes,Diabetes
+1832,54,Female,111,106,22.7,106,166,Yes,No Diabetes
+1833,62,Female,100,81,20.1,221,266,No,No Diabetes
+1834,72,Female,167,104,29.4,190,166,Yes,Diabetes
+1835,40,Female,115,105,28.3,144,247,Yes,No Diabetes
+1836,32,Female,172,72,23.4,56,206,No,Diabetes
+1837,69,Male,204,76,18.5,46,262,Yes,Diabetes
+1838,64,Female,94,70,18.0,285,123,Yes,No Diabetes
+1839,41,Female,148,61,37.2,206,137,Yes,Diabetes
+1840,33,Female,116,94,23.2,191,144,Yes,No Diabetes
+1841,59,Female,216,71,39.4,105,249,Yes,Diabetes
+1842,73,Female,77,99,18.9,290,150,No,No Diabetes
+1843,80,Female,97,82,34.4,280,162,Yes,Diabetes
+1844,52,Male,109,99,40.1,247,288,No,Diabetes
+1845,71,Female,99,102,31.3,188,183,No,Diabetes
+1846,30,Male,195,72,37.1,36,211,Yes,Diabetes
+1847,79,Female,95,93,20.2,179,254,No,No Diabetes
+1848,69,Male,142,80,21.3,116,194,No,Diabetes
+1849,46,Female,166,65,29.8,266,146,No,Diabetes
+1850,56,Female,169,79,29.9,162,295,Yes,Diabetes
+1851,54,Male,118,65,25.4,292,164,No,No Diabetes
+1852,68,Male,206,61,19.1,170,218,Yes,Diabetes
+1853,43,Male,181,107,30.2,106,250,No,Diabetes
+1854,64,Male,124,66,29.0,110,176,No,No Diabetes
+1855,25,Male,196,73,31.7,22,131,No,Diabetes
+1856,34,Male,144,60,39.7,184,165,No,Diabetes
+1857,73,Male,165,85,19.1,87,273,Yes,Diabetes
+1858,60,Female,178,103,31.7,173,172,No,Diabetes
+1859,47,Male,176,86,27.1,112,244,No,Diabetes
+1860,59,Male,171,62,34.7,244,152,Yes,Diabetes
+1861,25,Male,99,70,39.7,265,137,Yes,Diabetes
+1862,55,Female,112,107,24.2,218,192,No,No Diabetes
+1863,39,Female,97,108,20.9,118,142,No,No Diabetes
+1864,33,Male,202,62,29.3,70,148,Yes,Diabetes
+1865,23,Female,117,65,36.3,49,181,No,Diabetes
+1866,60,Female,182,107,21.4,36,289,Yes,Diabetes
+1867,70,Male,151,62,31.7,93,207,No,Diabetes
+1868,79,Male,159,89,22.8,43,220,No,Diabetes
+1869,30,Female,199,64,23.4,114,205,No,Diabetes
+1870,22,Female,87,75,32.4,162,262,Yes,Diabetes
+1871,30,Female,84,67,34.4,224,252,Yes,Diabetes
+1872,60,Male,152,83,18.9,68,295,Yes,Diabetes
+1873,21,Female,70,96,19.4,213,265,Yes,No Diabetes
+1874,75,Male,79,96,31.1,25,286,No,Diabetes
+1875,80,Female,142,103,32.8,245,180,No,Diabetes
+1876,60,Female,158,100,28.9,93,236,No,Diabetes
+1877,35,Male,143,100,35.5,213,185,Yes,Diabetes
+1878,44,Male,180,79,21.5,250,225,Yes,Diabetes
+1879,46,Male,160,73,40.6,230,226,No,Diabetes
+1880,67,Female,183,84,29.1,187,203,No,Diabetes
+1881,29,Male,132,73,35.1,114,288,No,Diabetes
+1882,78,Female,210,108,37.0,206,284,No,Diabetes
+1883,34,Female,106,90,20.6,246,196,No,No Diabetes
+1884,24,Male,125,81,31.2,95,288,No,Diabetes
+1885,80,Female,116,88,18.6,120,218,Yes,No Diabetes
+1886,38,Male,172,96,36.8,116,158,No,Diabetes
+1887,41,Female,132,107,21.1,264,200,Yes,No Diabetes
+1888,64,Male,86,65,18.5,42,204,Yes,No Diabetes
+1889,41,Female,121,107,21.6,124,198,Yes,No Diabetes
+1890,44,Female,219,88,29.4,104,194,No,Diabetes
+1891,27,Male,108,70,28.0,287,278,No,No Diabetes
+1892,31,Female,141,104,38.4,142,149,Yes,Diabetes
+1893,79,Female,94,108,18.9,210,241,No,No Diabetes
+1894,51,Male,75,97,34.5,200,232,Yes,Diabetes
+1895,49,Male,195,102,31.6,188,141,No,Diabetes
+1896,25,Male,104,99,25.2,216,158,Yes,No Diabetes
+1897,80,Male,152,78,35.1,57,210,No,Diabetes
+1898,22,Female,113,83,38.4,113,251,No,Diabetes
+1899,54,Male,195,80,39.7,41,286,Yes,Diabetes
+1900,65,Female,137,88,41.9,187,130,No,Diabetes
+1901,68,Female,90,81,31.2,81,279,Yes,Diabetes
+1902,68,Male,147,84,22.8,255,217,No,Diabetes
+1903,23,Female,166,81,26.8,277,228,No,Diabetes
+1904,66,Female,103,82,35.3,297,169,No,Diabetes
+1905,39,Female,91,88,40.1,58,290,No,Diabetes
+1906,76,Male,75,68,37.3,69,182,Yes,Diabetes
+1907,32,Female,86,69,31.7,136,142,Yes,Diabetes
+1908,21,Male,157,99,19.7,250,281,No,Diabetes
+1909,71,Male,101,63,34.9,117,140,Yes,Diabetes
+1910,26,Male,70,87,37.0,134,173,Yes,Diabetes
+1911,66,Male,169,80,33.0,113,241,Yes,Diabetes
+1912,66,Female,117,90,24.9,46,233,Yes,No Diabetes
+1913,53,Male,90,71,41.4,149,156,Yes,Diabetes
+1914,65,Male,89,72,22.5,179,178,Yes,No Diabetes
+1915,46,Female,175,92,33.4,126,229,No,Diabetes
+1916,73,Female,131,93,18.2,143,192,Yes,No Diabetes
+1917,25,Male,86,91,26.3,45,278,No,No Diabetes
+1918,26,Female,73,107,34.2,178,270,No,Diabetes
+1919,65,Male,215,76,35.5,178,235,No,Diabetes
+1920,68,Female,164,91,25.2,265,200,Yes,Diabetes
+1921,35,Male,80,104,26.5,253,238,No,No Diabetes
+1922,80,Female,188,89,28.9,87,218,No,Diabetes
+1923,22,Male,151,84,41.8,91,222,No,Diabetes
+1924,21,Female,114,69,32.2,109,175,Yes,Diabetes
+1925,22,Female,190,69,24.5,116,125,No,Diabetes
+1926,46,Male,147,95,24.7,112,244,No,Diabetes
+1927,48,Female,110,91,41.3,45,210,Yes,Diabetes
+1928,25,Female,192,98,24.9,135,252,No,Diabetes
+1929,72,Male,176,91,18.3,172,281,Yes,Diabetes
+1930,42,Female,179,99,20.9,81,255,No,Diabetes
+1931,42,Female,102,83,31.6,257,136,Yes,Diabetes
+1932,49,Female,176,75,23.0,182,296,Yes,Diabetes
+1933,79,Female,191,110,24.7,189,267,No,Diabetes
+1934,65,Male,102,80,36.8,132,271,Yes,Diabetes
+1935,73,Male,195,96,29.3,24,200,Yes,Diabetes
+1936,45,Male,152,65,30.7,251,274,No,Diabetes
+1937,25,Female,169,109,22.6,156,156,No,Diabetes
+1938,75,Male,191,75,23.4,16,203,No,Diabetes
+1939,73,Female,213,69,36.8,178,244,No,Diabetes
+1940,59,Male,118,98,32.5,166,135,Yes,Diabetes
+1941,54,Female,133,110,27.0,20,196,No,No Diabetes
+1942,34,Male,145,61,18.7,230,140,No,Diabetes
+1943,50,Male,184,100,27.2,95,272,No,Diabetes
+1944,69,Female,97,77,28.9,116,300,No,No Diabetes
+1945,39,Male,220,68,25.7,23,151,Yes,Diabetes
+1946,76,Female,211,90,26.9,176,216,Yes,Diabetes
+1947,61,Female,152,85,22.3,32,284,No,Diabetes
+1948,41,Male,200,63,35.3,82,247,Yes,Diabetes
+1949,80,Male,105,69,20.5,98,180,Yes,No Diabetes
+1950,69,Female,161,81,19.9,190,137,No,Diabetes
+1951,46,Male,204,86,33.4,217,297,Yes,Diabetes
+1952,56,Male,123,88,21.8,148,178,Yes,No Diabetes
+1953,24,Male,83,101,38.2,130,242,Yes,Diabetes
+1954,23,Male,129,69,40.9,85,248,No,Diabetes
+1955,41,Female,171,61,30.2,163,246,Yes,Diabetes
+1956,63,Female,210,64,19.0,33,173,Yes,Diabetes
+1957,58,Female,71,82,34.8,203,250,Yes,Diabetes
+1958,46,Male,108,94,18.2,159,188,No,No Diabetes
+1959,53,Female,110,72,36.1,146,205,Yes,Diabetes
+1960,41,Female,170,67,33.6,246,127,No,Diabetes
+1961,59,Female,122,71,20.7,213,147,Yes,No Diabetes
+1962,33,Female,124,97,37.6,199,238,Yes,Diabetes
+1963,62,Male,215,76,23.2,27,199,Yes,Diabetes
+1964,34,Male,155,73,30.0,213,203,No,Diabetes
+1965,46,Male,195,90,31.5,161,290,Yes,Diabetes
+1966,25,Male,70,61,32.9,20,190,Yes,Diabetes
+1967,40,Female,167,106,31.6,96,144,Yes,Diabetes
+1968,44,Male,118,87,35.8,205,139,No,Diabetes
+1969,47,Male,146,109,18.8,76,197,Yes,Diabetes
+1970,37,Female,122,67,40.1,30,241,Yes,Diabetes
+1971,21,Male,92,106,23.6,300,189,No,No Diabetes
+1972,22,Female,86,106,34.6,125,136,No,Diabetes
+1973,64,Female,77,62,29.9,253,225,Yes,No Diabetes
+1974,21,Male,86,109,39.0,159,242,Yes,Diabetes
+1975,72,Female,76,102,24.5,111,180,No,No Diabetes
+1976,72,Male,81,96,38.0,237,263,No,Diabetes
+1977,71,Male,82,78,26.7,203,236,No,No Diabetes
+1978,55,Male,165,102,39.6,297,258,Yes,Diabetes
+1979,41,Female,174,71,31.9,205,239,No,Diabetes
+1980,70,Female,107,103,36.0,268,292,No,Diabetes
+1981,44,Female,92,98,24.1,85,205,No,No Diabetes
+1982,62,Female,185,108,30.9,99,130,No,Diabetes
+1983,53,Male,157,94,33.2,96,266,Yes,Diabetes
+1984,73,Male,171,65,37.8,72,248,Yes,Diabetes
+1985,54,Male,217,60,24.1,296,290,Yes,Diabetes
+1986,68,Male,155,91,20.8,206,260,No,Diabetes
+1987,54,Female,126,96,26.4,223,296,Yes,No Diabetes
+1988,35,Female,109,104,39.5,111,120,Yes,Diabetes
+1989,52,Male,88,104,40.8,138,223,No,Diabetes
+1990,73,Male,208,100,20.3,112,126,Yes,Diabetes
+1991,22,Female,100,73,22.5,51,137,No,No Diabetes
+1992,49,Male,178,82,33.9,20,298,No,Diabetes
+1993,42,Female,165,73,25.3,259,282,Yes,Diabetes
+1994,64,Female,78,91,25.7,30,185,No,No Diabetes
+1995,76,Female,207,109,20.4,194,295,No,Diabetes
+1996,22,Female,79,91,36.2,59,241,No,Diabetes
+1997,55,Male,91,75,35.4,63,236,No,Diabetes
+1998,68,Female,131,98,41.6,32,202,No,Diabetes
+1999,56,Female,125,99,27.9,20,295,Yes,No Diabetes
+2000,58,Male,199,88,19.7,107,238,No,Diabetes

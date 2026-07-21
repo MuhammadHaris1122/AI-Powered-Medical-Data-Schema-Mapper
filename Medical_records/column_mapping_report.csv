@@ -1,0 +1,11 @@
+Source Column,Target Column,Similarity Score
+Record_ID,Patient_ID,0.5988
+Patient Age,Patient_ID,0.591
+Sex,Gender,0.5608
+Blood Sugar,Glucose,0.7361
+BP,BloodPressure,0.3997
+Body Mass Index,BMI,0.5492
+Serum Insulin,Insulin,0.8285
+Cholesterol Level,Cholesterol,0.8308
+Smoking Status,Smoker,0.5981
+Disease,Diagnosis,0.633
